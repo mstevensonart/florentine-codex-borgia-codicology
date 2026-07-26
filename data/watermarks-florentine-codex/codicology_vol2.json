@@ -1,0 +1,2956 @@
+{
+  "manuscript": "Florentine Codex",
+  "volume": "II",
+  "shelfmark": "Medici Palatino 219",
+  "notebook_date": "2001-08-13",
+  "transcribed": "2026-06-22",
+  "source_images": [
+    "Florentine_codex_volume_II_watermarks.pdf"
+  ],
+  "schema_notes": [
+    "watermark_type: P=cross-in-circle (Piccard), R=rotated variant, +=cross/plus type; null=no watermark observed",
+    "orientation: up=P↑S (countermark upper half), down=P↓S (countermark lower half); null=no watermark",
+    "suffix: stock group codes (CCM, CCA, BM, AM, ARA, 1M, 1A, M2)",
+    "flags: asterisk=notebook asterisk, new_type=first occurrence noted, best=exemplary specimen, check=reading uncertain, dot_prefix=dot before folio number"
+  ],
+  "binding_note": "End page: 'S (MADE IN ITALY)' lower outside corner, partially cut off. Back cover stamped in ink: 'MASI ANDREONI LEGATORIA FIRENZE'",
+  "total_entries": 381,
+  "entries": [
+    {
+      "folio": "cover",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank, no watermark recorded"
+    },
+    {
+      "folio": "1",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "prel_I",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "1M",
+      "flags": [],
+      "notes": "preliminary leaf I; P↓S-1M"
+    },
+    {
+      "folio": "prel_II",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "1M",
+      "flags": [],
+      "notes": "same as prel I"
+    },
+    {
+      "folio": "1a",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "new_type"
+      ],
+      "notes": "NEW TYPE AS THESIS; up-arrow; folio '1 + ↑ NEW TYPE AS THESIS'"
+    },
+    {
+      "folio": "2",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "3",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "Gtouch annotation; '3 + ↑ Gtouch'"
+    },
+    {
+      "folio": "4",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "5",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "6",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "7",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "8",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "9",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "10",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "11",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "12",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "13",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "14",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "15",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "16",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "17",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "18",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "19",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "20",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "21",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "22",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "23",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "24",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "25",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "26",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "27",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "28",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "29",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "30",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "31",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "32",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "33",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "34",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "35",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "36",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "37",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "38",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "39",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "40",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "41",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "42",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "43",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "44",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "45",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "46",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "47",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "48",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "49",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "50",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "51",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "52",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "53",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "54",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "55",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "56",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": [
+        "asterisk"
+      ]
+    },
+    {
+      "folio": "57",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "58",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "59",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": [
+        "asterisk"
+      ]
+    },
+    {
+      "folio": "60",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "61",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "62",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "63",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank — folio number may read '6S'; treated as 63"
+    },
+    {
+      "folio": "64",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": [],
+      "notes": "double/corrected entry 'P↓ P↑S-CCM'; second mark partially struck through"
+    },
+    {
+      "folio": "65",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "66",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "67",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "68",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "69",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "70",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "71",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "72",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank — folio not listed in notebook; appears skipped between 71 and NEW 73"
+    },
+    {
+      "folio": "73",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "1A",
+      "flags": [
+        "asterisk",
+        "new_type"
+      ],
+      "notes": "NEW *73 P↑S-1A"
+    },
+    {
+      "folio": "74",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "75",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "76",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "77",
+      "watermark_type": "R",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "78",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "79",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "80",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "81",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "82",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "83",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "84",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "85",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": [
+        "asterisk"
+      ]
+    },
+    {
+      "folio": "86",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "87",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "88",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "89",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "90",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "91",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "92",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "93",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "94",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "95",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "96",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "97",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "98",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "99",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "100",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "101",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "102",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "103",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "104",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "105",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "106",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "107",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "108",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "109",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": [
+        "asterisk"
+      ]
+    },
+    {
+      "folio": "110",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "111",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "112",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "AM",
+      "flags": [
+        "new_type"
+      ],
+      "notes": "P↑S-AM (NEW)"
+    },
+    {
+      "folio": "113",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "114",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "AM",
+      "flags": [
+        "check"
+      ],
+      "notes": "P↓S-AM(?); annotation 'e?' possibly '4e'; reading uncertain"
+    },
+    {
+      "folio": "115",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "116",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "117",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "118",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "119",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "120",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "121",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "122",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "123",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "124",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "125",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "126",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "127",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "128",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "129",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "130",
+      "watermark_type": "R",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": [
+        "dot_prefix"
+      ],
+      "notes": "dot prefix before folio number in notebook"
+    },
+    {
+      "folio": "131",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "132",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "133",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "134",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "135",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "136",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "M2",
+      "flags": [
+        "new_type"
+      ],
+      "notes": "P↑S-M2 (NEW3)"
+    },
+    {
+      "folio": "137",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "138",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "139",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "140",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "141",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "142",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "143",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "144",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "145",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "146",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "147",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "148",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "149",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "150",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "151",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "152",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "153",
+      "watermark_type": "R",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "154",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "155",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "156",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "157",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "158",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "159",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "160",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "161",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "162",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "BM",
+      "flags": []
+    },
+    {
+      "folio": "163",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "164",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "165",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": [
+        "new_type"
+      ],
+      "notes": "NEW; first appearance of CCA suffix in Vol. II"
+    },
+    {
+      "folio": "166",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "167",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "168",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "169",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "170",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "171",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "172",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "173",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "174",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "175",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "176",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "177",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "178",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "179",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "180",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "181",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "182",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "183",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "184",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "185",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "186",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "187",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": [],
+      "notes": "annotation '(2)' — possibly second sheet or double watermark"
+    },
+    {
+      "folio": "188",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "189",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "190",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": [
+        "asterisk",
+        "best"
+      ],
+      "notes": "*BEST — exemplary specimen"
+    },
+    {
+      "folio": "191",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "192",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "193",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "194",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "195",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "shows staff sack"
+    },
+    {
+      "folio": "196",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "197",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "198",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "199",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "200",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "201",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "202",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "203",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "204",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "205",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "206",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "207",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "208",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "209",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "210",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "211",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "212",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "213",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "214",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "215",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "216",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": [
+        "asterisk",
+        "check"
+      ],
+      "notes": "*216 P↑S-A2? check; 'CCM' written above as correction; suffix uncertain — may be CCA or CCM"
+    },
+    {
+      "folio": "217",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "218",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "219",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "220",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "221",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "222",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "223",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "224",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "225",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "226",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "227",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "228",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "229",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "230",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "231",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "232",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "233",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "234",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "235",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "236",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "237",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "238",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "239",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "240",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "241",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "242",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "243",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "244",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "245",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "246",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "247",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "248",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "249",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "250",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "251",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "252",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "253",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "254",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "255",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "256",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "257",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk",
+        "new_type"
+      ],
+      "notes": "blank — NEW *257 + ↑ M→PAGE; new type, mark extends to page margin"
+    },
+    {
+      "folio": "258",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "259",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "260",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "261",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "262",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "check"
+      ],
+      "notes": "unclear mark — flat symbol or partial watermark only"
+    },
+    {
+      "folio": "263",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "264",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "265",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "266",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "267",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "268",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "269",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "270",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "271",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "272",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "273",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "274",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "275",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "276",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "277",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "278",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "279",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "280",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "281",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "282",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "283",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "284",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "check"
+      ],
+      "notes": "unclear mark — flat/symbol only"
+    },
+    {
+      "folio": "285",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "286",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "287",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "288",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "289",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "290",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "291",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "292",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "293",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "294",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "295",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "296",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "297",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "298",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "299",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "300",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "301",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "302",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "303",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "304",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "305",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "306",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": [],
+      "notes": "written 'P↓S-C&A'; read as CCA"
+    },
+    {
+      "folio": "307",
+      "watermark_type": "+",
+      "orientation": "down",
+      "suffix": "ARA",
+      "flags": [
+        "asterisk",
+        "new_type"
+      ],
+      "notes": "*307 + ↓ ARA (new); cross/plus watermark type, new suffix ARA"
+    },
+    {
+      "folio": "308",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "309",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [
+        "asterisk"
+      ],
+      "notes": "blank"
+    },
+    {
+      "folio": "310",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "311",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "312",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "313",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "314",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "315",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "316",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "317",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "318",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "319",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "320",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "321",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "322",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "323",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "324",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "325",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "326",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "327",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "328",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "329",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "330",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "331",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank — partially illegible in notebook"
+    },
+    {
+      "folio": "332",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "333",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "334",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "335",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "336",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "337",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "338",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "339",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "340",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "341",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "342",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "343",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "344",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "345",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "346",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "347",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "348",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "349",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "350",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "351",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "352",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "353",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "354",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "355",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "356",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "357",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "358",
+      "watermark_type": "R",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "359",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "360",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "361",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "362",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "363",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "364",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "365",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "366",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "367",
+      "watermark_type": "P",
+      "orientation": "down",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "368",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCM",
+      "flags": []
+    },
+    {
+      "folio": "369",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "370",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "371",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": [],
+      "notes": "annotation: 'india stays & payout blue'"
+    },
+    {
+      "folio": "372",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank — annotation fragment visible"
+    },
+    {
+      "folio": "373",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "blank"
+    },
+    {
+      "folio": "374",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": [],
+      "notes": "annotation: '- g? need to glue'"
+    },
+    {
+      "folio": "375",
+      "watermark_type": "P",
+      "orientation": "up",
+      "suffix": "CCA",
+      "flags": []
+    },
+    {
+      "folio": "end_recto",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "end paper recto — blank"
+    },
+    {
+      "folio": "end_verso",
+      "watermark_type": null,
+      "orientation": null,
+      "suffix": null,
+      "flags": [],
+      "notes": "end paper verso — blank"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "description": "Execution-level technical evidence (stroke direction, tool behavior, pentimenti, corrections) for the Codex Borgia.",
+  "status": "Merged: seed sample + field notebook transcriptions (all three FC volumes), 2026-06-22.",
+  "entries": [
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 60",
+      "note_type": "dry-media",
+      "note_text": "Lead-point line establishes limits of inner points of cusp pattern on the circular shield form on the bearded figure's left arm. A leather join at this panel is covered by gesso and paint, invisible at viewing distance.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 65",
+      "note_type": "dry-media",
+      "note_text": "Lead-point compositional guideline indicates the lower edge of the serpent's curves in the upper section; a second line appears below and left of the serpent's tongue, perpendicular to a line locating a small square structure to its lower left.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 45",
+      "note_type": "dry-media",
+      "note_text": "Lead-point grid used to order the drawn skulls of sacrificial victims in the tzompantli illustration.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 24",
+      "note_type": "split-nib-evidence",
+      "note_text": "Split-nib mark visible in the third toenail of the figure's proper right foot, upper right section. Indicates a reed pen that ran out of ink mid-stroke, leaving a dry, divided mark. Visible only in the original, not in facsimile or copy reproduction.",
+      "essay_reference": "thesis essay (ASU, 2003), §Split-nib evidence"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 67",
+      "note_type": "tool-slip",
+      "note_text": "Artist's hand slipped in the lower right-hand quadrant: a green mark partially covers the bundle held by the Tlaloc figure. Mark shows a flat tool capable of variable-sized marks (sharp points to broad swaths) holding a fair amount of paint -- versatility not otherwise evident elsewhere in the manuscript. Character of the mark is uniform, not brush-like.",
+      "essay_reference": "thesis essay (ASU, 2003), Fig. 6 / field notebook sketch, 'MISTAKE lower right'"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 67",
+      "note_type": "stroke-direction",
+      "note_text": "Upper band: flint knife motif drawn upper-left to lower-right; upper and lower lines thick at top tapering to thin at bottom, crossing at bottom. Lines noted as uniformly dark, differing in character from elsewhere on the panel.",
+      "essay_reference": "field notebook"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Figure 5 (day-sign disks)",
+      "note_type": "white-paint-correction",
+      "note_text": "Two sets of six red disks (day-sign number indicators) drawn and redrawn; unwanted portions covered with white paint, a material visibly different in hue/value from the gesso ground.",
+      "essay_reference": "thesis essay (ASU, 2003), §Corrections"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 68",
+      "note_type": "scraping-correction",
+      "note_text": "Figure's left arm shifted slightly higher after the black-line painting was finished; lower line of the original arm position scraped away to remove black paint, upper line retains some pigment visible beneath the later coat.",
+      "essay_reference": "thesis essay (ASU, 2003), §Corrections, second correction type"
+    }
+  ]
+}

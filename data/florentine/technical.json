@@ -1,0 +1,787 @@
+{
+  "description": "Execution-level technical evidence (stroke direction, tool behavior, pentimenti, corrections) for the Florentine Codex.",
+  "status": "Merged: seed sample + field notebook transcriptions (all three FC volumes), 2026-06-22.",
+  "entries": [
+    {
+      "manuscript": "Florentine Codex",
+      "location": "286V",
+      "volume": 2,
+      "note_type": "preparatory-sketch",
+      "note_text": "Four figures on woven thrones face each other; a lead-point practice drawing of the upper-left figure's throne appears in the lower-left margin, connected by a lead-point line to the finished illustration -- likely a compositional aid for rendering three-dimensional form.",
+      "essay_reference": "2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "4R",
+      "volume": 2,
+      "note_type": "ink-degradation",
+      "note_text": "European (oak-gall type) ink has degraded the paper support; the capital letter beneath the illustration is separating from the paper in its lower-left section, an effect partially visible even in the Giunta facsimile.",
+      "essay_reference": "2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "251-260",
+      "note_type": "gloss",
+      "note_text": "Lead-point glosses naming kings appear above associated illustrations in the section on rulers; e.g. 'motecucoma' written above the king identifiable by an associated glyph, with a small lead-point sketch of the glyph itself adjacent.",
+      "essay_reference": "2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "277R",
+      "volume": 2,
+      "note_type": "white-paint-correction",
+      "note_text": "Execution-by-stoning scene: a previous arm position (raised, stone held behind the head) covered with white paint; uncovered lead-point lines to the left of the body indicate the temporary position.",
+      "essay_reference": "2008-09 comparative essay, Fig. 17"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "245V",
+      "volume": 2,
+      "note_type": "white-paint-correction",
+      "note_text": "Sacrifice scene: flames originally drawn coming from the victim's chest cavity have been painted over.",
+      "essay_reference": "2008-09 comparative essay, Fig. 18"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "253V",
+      "volume": 2,
+      "note_type": "pentimento",
+      "note_text": "Column of burning stones illustration: a drawn line of smoke perpendicular to the column has been painted over; lead-point drawing of stones to the left of the column visible both as physical indentation and as covered with white paint. Lead-point drawing also visible to the lower left of the figure group.",
+      "essay_reference": "2008-09 comparative essay, Fig. 19 / field notebook gridded tracing"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "349V",
+      "volume": 2,
+      "note_type": "scribal-correction",
+      "note_text": "Twelve textual corrections visible only on the original, not the facsimile; errors covered in white paint and corrected with a wide-nibbed writing tool. Corrections cluster around insertion of 'ch' (e.g. qui in mochoquiz, pachotinemi, tealtranime), suggesting a revised orthographic convention for representing Nahuatl sounds.",
+      "essay_reference": "2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "44V / 44R",
+      "volume": 1,
+      "note_type": "pasted-correction",
+      "note_text": "Cut-out illustration (approx. 5.5 x 4.5 cm) pasted over an earlier, unfinished version of the same scene (a group of women, no tears drawn, black line only, no color). The only known instance of this correction type in the Florentine Codex.",
+      "essay_reference": "2008-09 comparative essay, Fig. 20"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "371-375",
+      "note_type": "split-nib-evidence",
+      "note_text": "Split-nib pen evidence (likely native reed pen) in fine illustration work: lines within the dragonfly (375R), tiles (374V), flowers and garment folds (373R). Too fine to reproduce in facsimile.",
+      "essay_reference": "2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "433V",
+      "note_type": "pentimento",
+      "note_text": "Tracing of figure with marotte/staff-like diagonal element inside circular frame; short glyph-like text traced below the illustration.",
+      "essay_reference": "field notebook"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "74V",
+      "note_type": "tool-evidence",
+      "note_text": "Minimal hatching, non-evident dry media except in lower illustration; split-nib evidence in shading on the left leg of the Xipe Totec figure.",
+      "essay_reference": "field notebook"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "199V / 200R",
+      "note_type": "pentimento",
+      "note_text": "Eagle-catching-bird composition entirely redrawn across this opening; earlier eagle and bird, nest, and cliff face whited out and repositioned; standing eagle on 200R initially drawn covering a flying eagle beneath, later whited out and recolored.",
+      "essay_reference": "field notebook"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "6R",
+      "volume": 1,
+      "note_type": "scribal-correction",
+      "note_text": "After 'el septingessimo octavo' a line is scratched out. Reads: 'El septingessimo nono edificiero, se llamanos'.",
+      "confidence": "flagged",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "9V",
+      "volume": 1,
+      "note_type": "ink-degradation",
+      "note_text": "Capital P visible burning through from recto. Heavy wear on lower right corners of rectos from ff. 1–48, diminishing after. Laid paper lines clearly visible from contrast built up by years of handling.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "10R",
+      "volume": 1,
+      "note_type": "other",
+      "note_text": "Huitzilopochtli and [Tezcatlipoca?] have offset their lines within the first inch of the spine.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Second deity name reads 'Tezcapoyal' or 'Tezcatlipoca' in notebook"
+      ],
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "10R/V",
+      "volume": 1,
+      "note_type": "other",
+      "note_text": "Stem of Quetzalcoatl and black sun and center dot of Tezcatlipoca [?] offset across the opening.",
+      "confidence": "flagged",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "38V",
+      "volume": 1,
+      "note_type": "gloss",
+      "note_text": "Latin phrase noted in margin. Reads approximately 'Caput de quorum(?) q[uartom]?'.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Latin phrase nearly illegible; 'quorum' and 'quartom' both uncertain"
+      ],
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "48V",
+      "volume": 1,
+      "note_type": "pasted-correction",
+      "note_text": "Paper pasted in. Spanish text runs from 'Vendetos' to 'agedos', covering 3 lines. Unclear what is covered. Suggestion more ink came later requiring revision within available space.",
+      "patch_dimensions_boxes": "5×16",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "53R",
+      "volume": 1,
+      "note_type": "white-paint-correction",
+      "note_text": "Three words whited out.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Three whited-out words — text illegible in notebook scan"
+      ],
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "221V",
+      "volume": 1,
+      "note_type": "pasted-correction",
+      "note_text": "18th Nahuatl line 'quetzacoatl' pasted on paper. Unclear what is covered — original appears crossed out.",
+      "patch_dimensions_boxes": "2×6",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "296",
+      "volume": 1,
+      "note_type": "other",
+      "note_text": "'Cursivo' noted — possibly a script/hand observation mixed into the watermark log. Folio noted as if calendar material has been cut off. Flagged for further examination.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'Cursivo' — paper stock note or hand/script observation?"
+      ],
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "313R",
+      "volume": 1,
+      "note_type": "dry-media",
+      "note_text": "Upper right area of blank illustration: four circles then shift, with circle above in dry media. Watermark sketch of vessel/pot form labeled '321V' drawn below on same notebook page.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'Four circles then shift?' — nature of described shift unclear"
+      ],
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "331R",
+      "volume": 1,
+      "note_type": "hand-change",
+      "note_text": "Ink is the same for both languages (Nahuatl and Spanish) on this folio.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "335V",
+      "volume": 1,
+      "note_type": "other",
+      "note_text": "Folio glued to strip of paper. Four other strips of paper appear between this and 346R.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "343V",
+      "volume": 1,
+      "note_type": "dry-media",
+      "note_text": "Dry media lines evident.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "379V",
+      "volume": 1,
+      "note_type": "hand-change",
+      "note_text": "Same handwriting for Spanish and Nahuatl on this folio.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. I, Aug 12 2002"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "4V",
+      "volume": 2,
+      "note_type": "gloss",
+      "note_text": "Top left corner reads 'j. 4 v.' — same hand as Vol. I.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "25V",
+      "volume": 2,
+      "note_type": "other",
+      "note_text": "Small piece of tissue paper glued over hole in top left corner.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "33V",
+      "volume": 2,
+      "note_type": "gloss",
+      "note_text": "Top left reads 'f. 33v.'",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "42R",
+      "volume": 2,
+      "note_type": "white-paint-correction",
+      "note_text": "2 Spanish lines: first word whited out and written over.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "56R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "Top Nahuatl line after '1c' pasted over. Unclear what is covered.",
+      "patch_dimensions_boxes": "15×1.5",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "59R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "15 lines from bottom: Spanish 'via defunto' glued in and deteriorated.",
+      "patch_dimensions_boxes": "7×2",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "84–85",
+      "volume": 2,
+      "note_type": "other",
+      "note_text": "Semicircular patch repairs from tear on outer edge of pages. 13.5 boxes up, 11 boxes high, 5 boxes wide at widest.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "96R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "16th and 15th lines from base of Spanish text ('era pilla', 'criado enla') are patches with no laid lines, affecting ff. 95 and 97. Unclear what is covered.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "109R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "9th line Spanish: 'a' in 'mayormente' is over washed-out ink blot spanning 'a' in 'alguna' above to 'd' in 'guardian' below. 2nd Nahuatl line 'quitoznegi: monegi' glued in, unclear what is covered.",
+      "patch_dimensions_boxes": "1.5×8",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "125R",
+      "volume": 2,
+      "note_type": "white-paint-correction",
+      "note_text": "Lines 13–11 from bottom ('fenor', 'vaner', 'camponer, y') written over white-out from ink blot. Line 10 ('Casa ja') and last words ('Oy dana cosa') also overwritten.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "137R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "4 lines from bottom Nahuatl: 'vet n' pasted in, affecting ff. 136 and 138.",
+      "patch_dimensions_boxes": "5×3.5",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "164R",
+      "volume": 2,
+      "note_type": "other",
+      "note_text": "Illustration has offset lightly onto 163V.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "177R",
+      "volume": 2,
+      "note_type": "other",
+      "note_text": "Bottom of page in Spanish as if cut off. Noted as similar to Vol. I.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Nature of truncation unclear; resemblance to Vol. I unspecified"
+      ],
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "189R",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "3rd to last line Nahuatl: 'capipi l pan timalli' pasted on. Not affecting nearby pages.",
+      "patch_dimensions_boxes": "1.5×12.5",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "192V",
+      "volume": 2,
+      "note_type": "pasted-correction",
+      "note_text": "Entire text section pasted over cut-out hole. Text starts 'chpa y x ne x' (12th Nahuatl line from top) and ends cutting through capital I and 'Onen on catca'. Verso not cut — correction appears to be Spanish. Glue affecting ff. 191 and 192V.",
+      "patch_dimensions_boxes": "20×21",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "203V",
+      "volume": 2,
+      "note_type": "split-nib-evidence",
+      "note_text": "All of illustration indicates split nib/clef tool.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. II"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "11V",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "12th line + 9th Nahuatl line from bottom: dry media square with indication of drawing. Revised on inspection: actually the offset of the opposing illustration's black line.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Final word of revised observation illegible"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "15",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "This page is glued in.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "to 25",
+      "volume": 3,
+      "note_type": "stroke-direction",
+      "note_text": "Most drawings in this section appear to have had colour applied first, then black line on top.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "28V",
+      "volume": 3,
+      "note_type": "stroke-direction",
+      "note_text": "Upper illustration has colour over black line — reversal of the predominant sequence in this section.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "to 30",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "All illustration line work has offset but not the colour, as in Vol. II (stems and rabbits section). Writing ink has not offset.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "43R",
+      "volume": 3,
+      "note_type": "stroke-direction",
+      "note_text": "Middle illustration of men with featherbundles: colour over ink; ink offsetting to 42V.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "48V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Paper pasted in. Spanish text runs from 'El que verde las semillas' to 'Cap[i/u]myento' and from 'Chienna macac ca chiane' to 'Inpuchie oac'. Two lines in original. Suggestion more ink came later requiring revision.",
+      "patch_dimensions_boxes": "16×39 approx",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'Cap[i/u]myento' — middle vowel uncertain",
+        "'Chienna macac ca chiane (to) Inpuchie oac' — handwriting difficult throughout"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "49R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Paper pasted in. Spanish text 'Vendetos (to) agedos'. Covers 3 lines. Unclear what is covered.",
+      "patch_dimensions_boxes": "5×16",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "58V",
+      "volume": 3,
+      "note_type": "stroke-direction",
+      "note_text": "Black line added after colour to reinforce contours and form.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'form' — final word possibly 'form' or similar; slightly unclear"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "72V",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "'149' written in dry media to left of middle of illustration.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "116–151",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Heavier weight paper throughout this section. Spanish ink different from Nahuatl ink.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "133V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "7th line: 'tros mi[g]ma' pasted in. Unclear what is covered.",
+      "patch_dimensions_boxes": "1.5×5",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Middle letter of 'mi[g]ma' uncertain — 'g' is best reading"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "158V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Lines 13–19 from top, Spanish, pasted in. Unclear what is covered.",
+      "patch_dimensions_boxes": "12×17",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "166R",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "Drawn lines around 3rd animal from top.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "179V",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "Upper bird illustration contains dry media lines.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "183V",
+      "volume": 3,
+      "note_type": "white-paint-correction",
+      "note_text": "Prow of boat extends to right and is whited out outside the borders.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "185V",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "Drawn lines around bird.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "225R",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Note to compare woman with women depicted elsewhere in the manuscript.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'of/to?' — preposition in note unclear"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "231R–232R",
+      "volume": 3,
+      "note_type": "hand-change",
+      "note_text": "Different artist begins at 231R; noted at 232R.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "238R",
+      "volume": 3,
+      "note_type": "hand-change",
+      "note_text": "Back to previous artist.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "242R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Thrust of snake is paper pasted over previous illustration of a snake. Appears to be same hand, of similar character.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "262V",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Face of monster noted as interesting.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Second word ('monster') uncertain"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "265V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Paper pasted in Spanish column from top. Covers approximately 2 illustrations to 1st line of 3rd paragraph to last. Covers text but no illustrations.",
+      "patch_dimensions_boxes": "17×12.5",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "286R",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Borders and black lines have offset onto 285V. Thumbprint present.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "291V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "7th line from bottom Nahuatl: 'nja in wij' pasted in. Unclear what is covered.",
+      "patch_dimensions_boxes": "1.7×5.5",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "292R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Top line Nahuatl pasted in. Unclear what is covered.",
+      "patch_dimensions_boxes": "2×17",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "295V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Entire last paragraph pasted in covering text. Unclear what is covered.",
+      "patch_dimensions_boxes": "22×18",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Height dimension '18' possibly '13' — scan unclear"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "314V",
+      "volume": 3,
+      "note_type": "stroke-direction",
+      "note_text": "Paint applied thickly covering black lines.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "367R",
+      "volume": 3,
+      "note_type": "dry-media",
+      "note_text": "Above flames in lower illustration: entirely dry drawing of figure motioning leftward with Corinthian[?] form toward a doorway.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'Corinthian[?]' — architectural term uncertain; may be different word"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "369R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "'De las Colores' pasted on covering 'Piedras Preciosas'.",
+      "patch_dimensions_boxes": "4×17",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "373V",
+      "volume": 3,
+      "note_type": "white-paint-correction",
+      "note_text": "Lower illustration: botanical drawing of plant with roots whited out.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Phrase after 'whited out' illegible — possibly 'enduringly bowls' or similar"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "381V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Pasted in between 1st and 2nd [ganos?] Nahuatl.",
+      "patch_dimensions_boxes": "2×19",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'ganos' — uncertain word",
+        "Folio label may be 389V not 381V given sequence — verify"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "385R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "4th paragraph Nahuatl: 'ladera demote' pasted in. Unclear what is covered.",
+      "patch_dimensions_boxes": "2.5×8",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "389R",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Between 1st and 2nd paragraph: gap of paper covers writing. Text reads 'Camino secreto [of/or?] ataxo'.",
+      "patch_dimensions_boxes": "1×11",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "Conjunction 'of' or 'or' unclear"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "391V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "Upper half of illustration (line through column capitals) covers previous illustration in same hand: king sitting inside palace, two columns bracketing him touching either side of border post and lintel arch, row of dishes atop.",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "393V",
+      "volume": 3,
+      "note_type": "pasted-correction",
+      "note_text": "3rd illustration from top: band of paper (2 boxes high by full illustration width within borders) covering two parallel horizontal lines at bricks 10–14.",
+      "patch_dimensions_boxes": "2×full width",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "Book 12",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Most of the + marks have been cut off from the recto of Book 12 (de la conquista mexicana).",
+      "confidence": "high",
+      "essay_reference": "field notebook, Vol. III"
+    },
+    {
+      "manuscript": "Florentine Codex",
+      "location": "418V",
+      "volume": 3,
+      "note_type": "other",
+      "note_text": "Illustration covers text. Scene: 3 native soldiers upper left observing combat; fallen soldiers middle; 3 Spaniards lower right with cannon at feet to left; uppermost Spaniard pointing spear down toward fallen Aztec whose right arm has been cut off at elbow.",
+      "confidence": "flagged",
+      "uncertain_readings": [
+        "'7/3' notation — may be ⅔ or a different fraction or count",
+        "'upper?' — position word uncertain"
+      ],
+      "essay_reference": "field notebook, Vol. III"
+    }
+  ]
+}

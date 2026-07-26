@@ -1,0 +1,1161 @@
+{
+  "manuscript": "Florentine Codex",
+  "volumes_covered": [
+    1,
+    2,
+    3
+  ],
+  "notebook_dates": {
+    "vol_1": "2002-08-12",
+    "vol_2": "not recorded in transcription",
+    "vol_3": "not recorded in transcription"
+  },
+  "schema_notes": "patch_dimensions_boxes uses notebook grid measurement (boxes). flags: 'check' = uncertain reading needing verification; 'new_type' = first occurrence of type. uncertain_readings lists ambiguous transcription items.",
+  "status": "transcribed",
+  "entries": [
+    {
+      "folio": "6R",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "text_correction"
+      ],
+      "description": "After 'el septingessimo octavo' a line is scratched out reading 'El septingessimo nono edificiero, se llamanos'",
+      "flags": []
+    },
+    {
+      "folio": "9V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "wear_pattern",
+        "paper_evidence"
+      ],
+      "description": "Capital P visible on recto, ink burning through. Heavy wear on lower right corners of recto from ff. 1–48, diminishing thereafter. Laid paper lines clearly visible from contrast of years of handling.",
+      "flags": [],
+      "uncertain_readings": [
+        "'AI recto' notation — possibly sigla or unclear abbreviation"
+      ]
+    },
+    {
+      "folio": "10R",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "Huitzilopochtli and Tezcatlipoca [?] have offset their lines within the first inch of the spine.",
+      "flags": [],
+      "uncertain_readings": [
+        "Second deity name reads 'Tezcapoyal' or 'Tezcatlipoca'"
+      ]
+    },
+    {
+      "folio": "10R/V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "Stem of Quetzalcoatl and black sun and center dot of Tezcatlipoca [?] offset across opening.",
+      "flags": []
+    },
+    {
+      "folio": "12V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "Offset from facing page visible.",
+      "flags": [],
+      "uncertain_readings": [
+        "'Puqueatepetl' — uncertain reading, possibly Popocatepetl or deity name"
+      ]
+    },
+    {
+      "folio": "15V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Annotation present.",
+      "flags": [],
+      "uncertain_readings": [
+        "'Tomiyocalteci' — very uncertain reading"
+      ]
+    },
+    {
+      "folio": "38V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Latin phrase noted.",
+      "flags": [],
+      "uncertain_readings": [
+        "'Caput de quorum(?) q[uartom]?' — unclear"
+      ]
+    },
+    {
+      "folio": "48V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Paper pasted in covering original lines. Suggestion more ink came later requiring revision within available space.",
+      "flags": [],
+      "patch_dimensions_boxes": "5×16 boxes approx",
+      "uncertain_readings": [
+        "'Vendetos (to) agedos' — Spanish text on insert"
+      ]
+    },
+    {
+      "folio": "53R",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out"
+      ],
+      "description": "Three words whited out.",
+      "flags": [
+        "uncertain"
+      ],
+      "uncertain_readings": [
+        "Three whited-out words — highly uncertain reading"
+      ]
+    },
+    {
+      "folio": "204V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Annotation present.",
+      "flags": [],
+      "uncertain_readings": [
+        "'hene knee' — likely misread; possibly corn deity reference"
+      ]
+    },
+    {
+      "folio": "221V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "18th Nahuatl line 'quetzacoatl' pasted on paper, unclear what is covered — seems crossed out.",
+      "flags": [],
+      "patch_dimensions_boxes": "2×6 boxes"
+    },
+    {
+      "folio": "296",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "'Cursivo' noted — possibly a script/hand observation or paper note. Folio noted as if calendar material has been cut off. Flagged for further examination.",
+      "flags": [
+        "check"
+      ],
+      "uncertain_readings": [
+        "'Cursivo' — paper note or hand/script observation?"
+      ]
+    },
+    {
+      "folio": "313R",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media"
+      ],
+      "description": "Upper right area of blank illus: four circles then shift, with circle above in dry media. Watermark sketch of vessel/pot labeled '321V' drawn on same page.",
+      "flags": [],
+      "uncertain_readings": [
+        "'Four circles then shift?' — description unclear"
+      ]
+    },
+    {
+      "folio": "331R",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_hand"
+      ],
+      "description": "Ink is the same for both languages (Nahuatl and Spanish).",
+      "flags": []
+    },
+    {
+      "folio": "335V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Glued to strip of paper. Four other strips of paper appear between this and 346R.",
+      "flags": []
+    },
+    {
+      "folio": "343V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media"
+      ],
+      "description": "Dry media lines evident.",
+      "flags": []
+    },
+    {
+      "folio": "379V",
+      "volume": 1,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_hand"
+      ],
+      "description": "Same handwriting for Spanish and Nahuatl here.",
+      "flags": []
+    },
+    {
+      "folio": "1R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn in notebook: heart-shaped cartouche with cross and letters — reads 'm|f|o' or similar; chainlines visible.",
+      "flags": [
+        "check"
+      ],
+      "uncertain_readings": [
+        "Cartouche letters uncertain"
+      ]
+    },
+    {
+      "folio": "4V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Top left corner reads 'j. 4 v.' — same hand as in Vol. I.",
+      "flags": []
+    },
+    {
+      "folio": "25V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "repair"
+      ],
+      "description": "Small piece of tissue paper glued over hole in top left corner.",
+      "flags": []
+    },
+    {
+      "folio": "33V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Top left reads 'f. 33v.'",
+      "flags": []
+    },
+    {
+      "folio": "42R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out",
+        "text_correction"
+      ],
+      "description": "2 Spanish lines from last 1st word whited out and written over.",
+      "flags": []
+    },
+    {
+      "folio": "56R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Top Nahuatl line after '1c' pasted over, unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "15×1.5 boxes"
+    },
+    {
+      "folio": "59R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "15 lines from bottom, Spanish 'via defunto' glued in and deteriorated.",
+      "flags": [],
+      "patch_dimensions_boxes": "7×2 boxes"
+    },
+    {
+      "folio": "73V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn: circular cartouche with standing pilgrim/soldier figure with staff; chainlines visible; countermark below reads 'AI'.",
+      "flags": []
+    },
+    {
+      "folio": "84–85",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "repair"
+      ],
+      "description": "Semicircular patch repairs from tear on outer edge of pages.",
+      "flags": [],
+      "patch_dimensions_boxes": "13.5 boxes up, 11 boxes high, 5 boxes wide at widest"
+    },
+    {
+      "folio": "96R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "16th and 15th lines from base of Spanish text ('era pilla', 'criado enla') are patches with no laid lines, affecting ff. 95 and 97. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "implied multi-line patch"
+    },
+    {
+      "folio": "109R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out",
+        "paste_over"
+      ],
+      "description": "9th line Spanish: 'a' in 'mayormente' is over ink blot washed out spanning 'a' in 'alguna' above to 'd' in 'guardian' below. 2nd Nahuatl line 'quitoznegi: monegi' glued in, unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "1.5×8 boxes"
+    },
+    {
+      "folio": "112V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn: circular cartouche with standing figure (same type as 73V); countermark reads 'Mia' or 'Mla'.",
+      "flags": [
+        "check"
+      ],
+      "uncertain_readings": [
+        "Countermark letters: 'Mia' vs 'Mla'"
+      ]
+    },
+    {
+      "folio": "125R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out",
+        "text_correction"
+      ],
+      "description": "13 Spanish lines from bottom: 'fenor' (13), 'vaner' (12), 'camponer, y' (11) written over white-out from ink blot. 'Casa ja' (10th line) and last words 'Oy dana cosa' also overwritten.",
+      "flags": []
+    },
+    {
+      "folio": "137R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "4 lines from bottom Nahuatl 'vet n' pasted in, affecting ff. 136 and 138.",
+      "flags": [],
+      "patch_dimensions_boxes": "5×3.5 boxes"
+    },
+    {
+      "folio": "164R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "Illustration has offset lightly onto 163V.",
+      "flags": []
+    },
+    {
+      "folio": "177R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Bottom of page in Spanish as if cut off. Noted as similar to Vol. I.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "folio": "189R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "3rd to last line Nahuatl 'capipi l pan timalli' pasted on, not affecting nearby pages.",
+      "flags": [],
+      "patch_dimensions_boxes": "1.5×12.5 boxes"
+    },
+    {
+      "folio": "190V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn: pear/teardrop cartouche with floral/botanical motif (lily or similar); countermark reads 'V99' or '∀99'. Note: 'HAT elements from 21V'; 'detail of sack from 195V'.",
+      "flags": [
+        "check"
+      ],
+      "uncertain_readings": [
+        "Countermark: 'V99' vs '∀99'"
+      ]
+    },
+    {
+      "folio": "192V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over",
+        "physical_anomaly"
+      ],
+      "description": "Entire text section pasted over cut-out hole. Text starts 'chpa y x ne x' (12th Nahuatl line from top) and ends cutting through capital I and 'Onen on catca'. Verso not cut — correction appears to be Spanish. Glue affecting ff. 191 and 192V.",
+      "flags": [],
+      "patch_dimensions_boxes": "20 high × 21 wide boxes"
+    },
+    {
+      "folio": "203V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "tool_evidence"
+      ],
+      "description": "All of illustration indicates split nib/clef tool.",
+      "flags": []
+    },
+    {
+      "folio": "220R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Drawn column lines but nothing else.",
+      "flags": []
+    },
+    {
+      "folio": "222R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "binding_evidence"
+      ],
+      "description": "Binding evidence noted.",
+      "flags": []
+    },
+    {
+      "folio": "257V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn in notebook.",
+      "flags": [
+        "new_type"
+      ]
+    },
+    {
+      "folio": "280R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "pigment"
+      ],
+      "description": "Yellow-based color staining / pigment transfer noted.",
+      "flags": []
+    },
+    {
+      "folio": "293R",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "pigment"
+      ],
+      "description": "Yellow-based color staining noted.",
+      "flags": []
+    },
+    {
+      "folio": "307V",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark drawn. Margin note present.",
+      "flags": [
+        "check"
+      ],
+      "uncertain_readings": [
+        "Margin note word unclear"
+      ]
+    },
+    {
+      "folio": "371–372",
+      "volume": 2,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Extra paper strip inserted.",
+      "flags": []
+    },
+    {
+      "folio": "11V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media",
+        "offset"
+      ],
+      "description": "12th line + 9th Nahuatl line from bottom: dry media square with indication of drawing. Revised observation: actually offset of opposing illustration black line.",
+      "flags": [],
+      "uncertain_readings": [
+        "Final word of revised observation unclear"
+      ]
+    },
+    {
+      "folio": "15",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "This page is glued in.",
+      "flags": []
+    },
+    {
+      "folio": "to 25",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "technique_sequence"
+      ],
+      "description": "Most drawings seem to have had colour applied first, then black line on top.",
+      "flags": []
+    },
+    {
+      "folio": "28V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "technique_sequence"
+      ],
+      "description": "Upper illustration has colour over black line — reversal of predominant sequence.",
+      "flags": []
+    },
+    {
+      "folio": "to 30",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "All illustration line work has offset but not the colour, as in Vol. II (stems and rabbits). Writing ink has not offset.",
+      "flags": []
+    },
+    {
+      "folio": "43R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset",
+        "technique_sequence"
+      ],
+      "description": "Middle illustration of men with featherbundles: colour over ink; ink offsetting to 42V.",
+      "flags": []
+    },
+    {
+      "folio": "48V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Paper pasted in covering Spanish text. Two lines in original. Suggestion more ink came later requiring revision within available space.",
+      "flags": [],
+      "patch_dimensions_boxes": "16×39 boxes approx",
+      "uncertain_readings": [
+        "Second Spanish phrase 'Chienna macac ca chiane (to) Inpuchie oac' — handwriting difficult"
+      ]
+    },
+    {
+      "folio": "49R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Paper pasted in. Spanish text 'Vendetos (to) agedos'. Covers 3 lines, unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "5×16 boxes"
+    },
+    {
+      "folio": "58V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "technique_sequence"
+      ],
+      "description": "Black line added after colour to reinforce contours and form.",
+      "flags": [],
+      "uncertain_readings": [
+        "'form' — final word uncertain"
+      ]
+    },
+    {
+      "folio": "72V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media"
+      ],
+      "description": "'149' written in dry media to left of middle of illustration.",
+      "flags": []
+    },
+    {
+      "folio": "86V–99R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in blank columns. Some pages have column lines drawn in on recto but not verso.",
+      "flags": []
+    },
+    {
+      "folio": "116–151",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paper_evidence",
+        "scribal_hand"
+      ],
+      "description": "Heavier weight paper and Spanish ink different from Nahuatl throughout this section.",
+      "flags": []
+    },
+    {
+      "folio": "133V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "7th line 'tros mi[g]ma' pasted in.",
+      "flags": [],
+      "patch_dimensions_boxes": "1.5×5 boxes",
+      "uncertain_readings": [
+        "'mi[g]ma' — middle letter uncertain"
+      ]
+    },
+    {
+      "folio": "158V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "13 to 19 lines from top, Spanish, pasted in. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "12×17 boxes"
+    },
+    {
+      "folio": "166R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Drawn lines around 3rd animal from top.",
+      "flags": []
+    },
+    {
+      "folio": "179V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media"
+      ],
+      "description": "Upper bird illustration contains dry media lines.",
+      "flags": []
+    },
+    {
+      "folio": "183V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out"
+      ],
+      "description": "Prow of boat sticks out to right and is whited out outside the borders.",
+      "flags": []
+    },
+    {
+      "folio": "185V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Drawn lines around bird.",
+      "flags": []
+    },
+    {
+      "folio": "199V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out",
+        "revision"
+      ],
+      "description": "Folio number '199v' written in upper left corner. Eagle catching bird entirely redrawn — previous eagle with bird larger, above border to right of present eagle, completely whited out. Two lower illustrations (eagles nest and cliff face) to left of eagle also whited out, extending above border to upper left.",
+      "flags": [],
+      "uncertain_readings": [
+        "'(rect?)' after 'upper left' — unclear word"
+      ]
+    },
+    {
+      "folio": "200R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out",
+        "revision"
+      ],
+      "description": "Upper illustration initially drawn lower and bigger, whited out — feet stick out from under border. Standing eagle initially drawn above border of present eagle, which covers a flying eagle; flying eagle whited out and redrawn with colour below.",
+      "flags": []
+    },
+    {
+      "folio": "225R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Note to compare woman with women depicted elsewhere.",
+      "flags": [],
+      "uncertain_readings": [
+        "'of/to?' — preposition unclear"
+      ]
+    },
+    {
+      "folio": "231R–232R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_hand"
+      ],
+      "description": "Different artist begins at 231R; noted at 232R.",
+      "flags": []
+    },
+    {
+      "folio": "238R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_hand"
+      ],
+      "description": "Back to previous artist.",
+      "flags": []
+    },
+    {
+      "folio": "242R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Thrust of snake is paper pasted over previous illustration of snake. Appears to be same hand, of similar character and snake.",
+      "flags": []
+    },
+    {
+      "folio": "243V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in space below illustration.",
+      "flags": []
+    },
+    {
+      "folio": "262V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "Face of monster noted as interesting.",
+      "flags": [],
+      "uncertain_readings": [
+        "Second word of entry unclear"
+      ]
+    },
+    {
+      "folio": "265V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Paper pasted in Spanish column from top. Covers approximately 2 illustrations to 1st line of 3rd paragraph to last. Covers text but no illustrations.",
+      "flags": [],
+      "patch_dimensions_boxes": "17×12.5 boxes"
+    },
+    {
+      "folio": "286R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset",
+        "physical_anomaly"
+      ],
+      "description": "Borders and black lines have offset onto 285V. Thumbprint present.",
+      "flags": []
+    },
+    {
+      "folio": "291V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "7th line from bottom Nahuatl 'nja in wij' pasted in. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "1.7×5.5 boxes"
+    },
+    {
+      "folio": "292R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Top line Nahuatl pasted in. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "2×17 boxes"
+    },
+    {
+      "folio": "294V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_hand"
+      ],
+      "description": "Same artist as in section on women.",
+      "flags": []
+    },
+    {
+      "folio": "295V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Entire last paragraph pasted in covering text. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "22×18[?] boxes",
+      "uncertain_readings": [
+        "Height measurement: '18' uncertain"
+      ]
+    },
+    {
+      "folio": "314V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "technique_sequence"
+      ],
+      "description": "Paint applied thickly covering black lines.",
+      "flags": []
+    },
+    {
+      "folio": "316",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Corner torn off.",
+      "flags": []
+    },
+    {
+      "folio": "321R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "'320' written at top, burning through page at top of 2.",
+      "flags": []
+    },
+    {
+      "folio": "325",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "repair"
+      ],
+      "description": "Lower edge and side of paper repaired.",
+      "flags": []
+    },
+    {
+      "folio": "344V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "scribal_annotation"
+      ],
+      "description": "'597' written in upper left corner beside upper illustration.",
+      "flags": []
+    },
+    {
+      "folio": "367R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "dry_media"
+      ],
+      "description": "Above flames in lower illustration: completely dry drawing of figure motioning leftwards with Corinthian[?] form towards a doorway.",
+      "flags": [],
+      "uncertain_readings": [
+        "'Corinthian[?]' — uncertain reading"
+      ]
+    },
+    {
+      "folio": "369R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "'De las Colores' pasted on covering 'Piedras Preciosas'.",
+      "flags": [],
+      "patch_dimensions_boxes": "4×17 boxes"
+    },
+    {
+      "folio": "373V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "white_out"
+      ],
+      "description": "Lower illustration: botanical drawing of plant with roots whited out.",
+      "flags": [],
+      "uncertain_readings": [
+        "Last word cluster — 'enduringly? bowls' — unclear"
+      ]
+    },
+    {
+      "folio": "385R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "4th paragraph Nahuatl 'ladera demote' pasted in. Unclear what is covered.",
+      "flags": [],
+      "patch_dimensions_boxes": "2.5×8 boxes"
+    },
+    {
+      "folio": "381V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Pasted in between 1st and 2nd [ganos?] Nahuatl.",
+      "flags": [
+        "check"
+      ],
+      "patch_dimensions_boxes": "2×19 boxes",
+      "uncertain_readings": [
+        "'ganos' uncertain; folio may be mislabeled — 381V vs 389V given sequence"
+      ]
+    },
+    {
+      "folio": "389R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "Between 1st and 2nd paragraph, gap of paper covers writing. Text reads 'Camino secreto [of/or?] ataxo'.",
+      "flags": [],
+      "patch_dimensions_boxes": "1×11 boxes",
+      "uncertain_readings": [
+        "Conjunction 'of/or' unclear"
+      ]
+    },
+    {
+      "folio": "391V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "revision",
+        "paste_over"
+      ],
+      "description": "Upper half of illustration (line through column capitals) covers previous illustration in same hand: king sitting inside palace, two columns bracketing him touching either side of border post and lintel arch, row of dishes atop.",
+      "flags": []
+    },
+    {
+      "folio": "393V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "paste_over"
+      ],
+      "description": "3rd illustration from top: band of paper (2 boxes by width of illustration within borders) covering two parallel horizontal lines at bricks 10–14.",
+      "flags": [],
+      "patch_dimensions_boxes": "2 boxes high × full illustration width"
+    },
+    {
+      "folio": "405R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Only column lines drawn here.",
+      "flags": []
+    },
+    {
+      "folio": "405V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "offset"
+      ],
+      "description": "Illustration from 406R offset onto 405V.",
+      "flags": []
+    },
+    {
+      "folio": "Book 12",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Most of the + marks have been cut off from the recto of Book 12 (de la conquista mexicana).",
+      "flags": []
+    },
+    {
+      "folio": "418V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Illustration covers text. Scene: native soldiers (3) in upper left observing combat; fallen soldiers in middle; 3 Spaniards in lower right corner with cannon at feet to left; uppermost Spaniard pointing spear downward toward fallen Aztec whose right arm has been cut off at elbow.",
+      "flags": [],
+      "uncertain_readings": [
+        "'7/3' notation — may be ⅔ or different notation; 'upper?' — uncertain"
+      ]
+    },
+    {
+      "folio": "479R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing drawn in space.",
+      "flags": []
+    },
+    {
+      "folio": "480V/481R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing drawn in columns other than column lines in 481R.",
+      "flags": []
+    },
+    {
+      "folio": "482R/483R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in spaces.",
+      "flags": []
+    },
+    {
+      "folio": "486R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in space.",
+      "flags": []
+    },
+    {
+      "folio": "489R/491V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in spaces.",
+      "flags": []
+    },
+    {
+      "folio": "493R/494R",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "physical_anomaly"
+      ],
+      "description": "Nothing in spaces.",
+      "flags": []
+    },
+    {
+      "folio": "151V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark sketch in notebook: circular design with figure, cross/staff motif, and letterforms below the circle.",
+      "flags": []
+    },
+    {
+      "folio": "433V",
+      "volume": 3,
+      "manuscript": "Florentine Codex",
+      "observation_types": [
+        "watermark_detail"
+      ],
+      "description": "Watermark sketch: circular design with seated/walking figure carrying staff or pole; letterforms below the circle.",
+      "flags": []
+    }
+  ]
+}
