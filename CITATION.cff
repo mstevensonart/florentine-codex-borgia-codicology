@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset or essay, please cite it as below."
+title: "In Tlilli, In Tlapalli: A Codicological Survey of the Codex Borgia and the Florentine Codex"
+authors:
+  - family-names: Stevenson
+    given-names: Michael
+type: dataset
+abstract: >
+  A physical-evidence dataset and comparative essay examining production
+  methods, materials, and corrections in the Codex Borgia and the
+  Florentine Codex, developed from an M.A. thesis (Art History, Arizona
+  State University, 2003, chair: Emily Umberger).
+keywords:
+  - codicology
+  - Codex Borgia
+  - Florentine Codex
+  - Mesoamerican manuscripts
+  - watermarks
+  - paleography
+license: CC-BY-4.0
+# version: 0.1.0
+# date-released: YYYY-MM-DD
+# doi: 10.5281/zenodo.XXXXXXX   # fill in after first Zenodo archive

@@ -1,0 +1,17 @@
+# Local scan folders (large binary files — go to Zenodo, not GitHub)
+scans/
+tlilli-tlapalli/
+related/
+archive/
+*.tif
+*.tiff
+*.raw
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local server / env
+__pycache__/
+.venv/
