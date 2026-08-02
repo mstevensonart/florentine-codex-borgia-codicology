@@ -1,4 +1,4 @@
-# In Tlilli, In Tlapalli
+# A codicological survey of the Codex Borgia and the Florentine Codex 
 
 A codicological survey of the *Codex Borgia* and the *Florentine Codex* — paper, watermarks, tools, hands, and corrections — tracing artisanal continuity from a pre-Conquest screenfold to a colonial encyclopedic manuscript.
 
