@@ -1,0 +1,872 @@
+{
+  "manuscript": "Codex Borgia",
+  "shelfmark": "Borgiana Messicana 1, Biblioteca Apostolica Vaticana",
+  "survey_type": "codicological census (panel-by-panel), parallel in spirit to codicology_vol1-3.json's folio-by-folio watermark census",
+  "coverage": "38 physical screenfold panels x 2 painted faces = panels 1-76, following the field notebook's own panel numbering",
+  "source_file": "Codex_Borgia_notes.pdf (53-page field notebook), sessions 2000-06-03, 2000-07-07, 2000-07-10, 2000-07-11",
+  "transcribed": "2026-08-29",
+  "schema_notes": "Unlike codicology_vol1-3.json (watermark presence/type per folio -- a paper-based feature), Codex Borgia is a pre-Conquest deerskin screenfold and has no watermarks. Fields here are the deerskin-manuscript equivalent: support (hide joins/skin-section boundaries), condition (damage, staining, holes with measurements where recorded), grid_system (red-line/sub-grid layout), production_notes (priming, pigment, technique-sequence evidence), revision_notes (pentimenti/redrawing), tool_notes (implement identification/behaviour). Null fields mean the notebook recorded no observation for that category at that panel, not that the census confirmed its absence -- this census inherits the coverage gaps of the 2000 examination sessions rather than a fresh physical inspection. flags: 'check' = grouped/shared notebook entry where per-panel attribution is inferred rather than explicit; 'no_coverage' = panel number falls in the 1-76 range but no notebook entry was found for it in this pass -- a genuine gap, not a null result, and should be checked against the physical notebook. Panels 24, 67, 68 cross-reference technical_merged.json's original seed entries, which remain the citation-verified record for those three (used in the published festschrift essay).",
+  "total_entries": 76,
+  "entries": [
+    {
+      "panel": "1",
+      "support": "tanned hide; grain runs downward",
+      "condition": "Large damage upper-left corner; abrasion over entire panel; upper-right ~1/3 legible; lower-left almost effaced. Red pigment appears bled through in several grid cells.",
+      "grid_system": "Divided into 7 unequal vertical sections (a-f x 1-7 sub-grid); red lines delineating boxes consistent throughout.",
+      "production_notes": "Intermediate priming (hatched) vs. preliminary-prime-except-detail zones mapped; full prime+paint 'island' within preliminary area. At cell 7c, red stain absorbed into hide beneath a preliminary gypsum coat, with further painting on top of the stain -- stain predates full priming.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Recorded across two sessions, 7/7/2000 (Frame 7C diagram) and 7/12/2000 (Frame 1F, figure detail).",
+      "flags": []
+    },
+    {
+      "panel": "2",
+      "support": null,
+      "condition": "7x7 design; damage in upper-right corresponds to Panel 1 but smaller; matching stain damage.",
+      "grid_system": "7x7",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "3",
+      "support": null,
+      "condition": "Same 6x7/7x7 design and damage pattern as Panels 1-2 (grouped note; not individually re-examined).",
+      "grid_system": "6x7/7x7 (grouped w/ 4)",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Notebook entry covers Panels 3-4 jointly.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "4",
+      "support": null,
+      "condition": "Grouped with Panel 3 (see above).",
+      "grid_system": "6x7/7x7 (grouped w/ 3)",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Notebook entry covers Panels 3-4 jointly.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "5",
+      "support": null,
+      "condition": "Hole in lower-right corner of grid cell 7b.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil marks at cells 1b (figure being swallowed), 1e (temple), 7b (building), 7c (pot and figure, flagged as notable).",
+      "flags": []
+    },
+    {
+      "panel": "6",
+      "support": null,
+      "condition": "Two holes: cells 1a+1b, ~1/4in from top, crossing the line, with more hole area in 1b; second hole in cell 1e, ~1/2in from base, lower right, overlapping into the next frame.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": "Cells 4d and 5a flagged as 'good indication of tool and handedness.'",
+      "notes": "Small non-Aztec scribble noted lower-right of panel. Pencil marks at head (2a), snakes (7c, flagged), left-hand side (7d).",
+      "flags": []
+    },
+    {
+      "panel": "7",
+      "support": null,
+      "condition": "Ground shows evidence of air bubbles between the left knee of the larger figure and the back of the right knee of the smaller figure, parallel to the panel base; small unidentified impurities in the ground.",
+      "grid_system": null,
+      "production_notes": "Ground is a white material. Evidence of sketching in cells 1a-1d. Vertical line at 1e-f has white paint. Colour applied on top of black at cells 3f, 4f.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "White-out on red line, columns e+f, rows 2-7. Imperfections suggest paint layers are transparent.",
+      "flags": []
+    },
+    {
+      "panel": "8",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": "Red colour in cell 1d differs from the small figure's red -- darker, more opaque, more paint applied.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Building-proportion pencil marks at 1a/1b (flagged as notable); small marks around figure at 1f. White-out on horizontal line below row 1, columns b-d and f.",
+      "flags": []
+    },
+    {
+      "panel": "9",
+      "support": null,
+      "condition": "Red staining at base of panel, consistent with water damage.",
+      "grid_system": "Divided into 4 sections.",
+      "production_notes": "Colour scheme: ochre, green, red, black, plus white of exposed ground.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil frame around figure (cell 1). Grouped colour-scheme note shared with Panel 10.",
+      "flags": []
+    },
+    {
+      "panel": "10",
+      "support": null,
+      "condition": "Grouped staining/colour-scheme note, shared with Panel 9.",
+      "grid_system": "Divided into 4 sections (shared w/ 9).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil marks around upper drinking figure and edge of moon, cell 4.",
+      "flags": []
+    },
+    {
+      "panel": "11",
+      "support": "Join in two pieces of hide.",
+      "condition": null,
+      "grid_system": "Divided into 4 sections.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Evidence of a red line between Panels 11-12 suggesting a method of presentation. Pencil marks: right-hand snake head (2), upper-left group (3), lower-left snake (4); possible white-out in cell 3.",
+      "flags": []
+    },
+    {
+      "panel": "12",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil marks: upper-right figure (1); pot outline not following curves top/bottom, suggested as 'intuitive understanding of space' (3); temple structure (4).",
+      "flags": []
+    },
+    {
+      "panel": "13",
+      "support": null,
+      "condition": "Unfinished element noted in upper-left corner, cell 3.",
+      "grid_system": "Divided into 4 sections.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil marks: fisherman+monkey (1), lower-right object (2), lower skull figure with ink added to upper figure (3), temple structure (4). White-out around outer edge of moon (cell 1) and between the two central figures, horizontal line (cell 3).",
+      "flags": []
+    },
+    {
+      "panel": "14",
+      "support": "Hide join evident at grid positions 2, 5, 8, approx. 1/2in in from the left of each square.",
+      "condition": null,
+      "grid_system": "Divided into 9 sections.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "White-out around figure, cell 2; pencil marks around figure's lower elbow and deer head, lower right.",
+      "flags": []
+    },
+    {
+      "panel": "15",
+      "support": "Stain present on bare hide with no ground beneath it (border positions 1-4).",
+      "condition": null,
+      "grid_system": "Divided into 9 sections with borders at base of each (4 equal squares).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Faces on apparent human figures show differences in paint application, possibly suggesting differences in individual appearance (note shared w/ Panel 16).",
+      "flags": []
+    },
+    {
+      "panel": "16",
+      "support": "Stain present on bare hide with no ground (positions 7 [cells 3-4] and 8 [all 4 cells]).",
+      "condition": null,
+      "grid_system": "Divided into 9 sections (shared w/ 15).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "17",
+      "support": null,
+      "condition": "Stain at base of section B, positions 1-5.",
+      "grid_system": "Divided into A/B/C, each with a 1-4 sub-grid. Composition still vertical at this point in the sequence (orientation shift begins at Panel 29).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Lower line of the upper 'predella' on Panel 18 extends through Panel 17. Large figure's shield arm below arm, above small temple; horizontals/verticals in lower-right of figure. Red line runs between panels 17-18.",
+      "flags": []
+    },
+    {
+      "panel": "18",
+      "support": null,
+      "condition": null,
+      "grid_system": "Divided into A(1-5)/B(1-5), grouped w/ 17.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Striped sacrifice figure with sun above, near-centre figure; predella #4 upper, #3 lower. Drawing and white-out around owl and temple, and around a leopard (white-out to left of its rump).",
+      "flags": []
+    },
+    {
+      "panel": "19",
+      "support": null,
+      "condition": null,
+      "grid_system": "Same layout as Panel 18 (grouped note, 19-20).",
+      "production_notes": null,
+      "revision_notes": "Lower section: circles were initially drawn larger, then reduced and shifted up/left; the final circle sits in the lower-left quadrant of a visible 'ghost circle' from the earlier version.",
+      "tool_notes": null,
+      "notes": "Upper section: drawing right of a green figure also shows white-out; predella positions 1, 3, 5 show white-out. Drawing throughout the left figure on the platform and a snake in the air.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "20",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grouped w/ 19 (same layout).",
+      "production_notes": "Black-line drawing established before paint application, both in figure design and in application order.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Upper: snake and falling figure; white-out left of a rabbit (predella 2); drawing at 3+5. Lower: drawing and white-out around a female figure; guidelines around water; predella position 2.",
+      "flags": []
+    },
+    {
+      "panel": "21",
+      "support": null,
+      "condition": "Staining appears to occur along the base of the entire screenfold, possibly water damage.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Section B depicts a ball court in plan view (same layout as Panel 20). Upper: drawing in path, predella 1+4+5. Lower: drawing in ball court, positions 2+4; in raking light, predella position 4 (lower) appears drawn rather than incised.",
+      "flags": []
+    },
+    {
+      "panel": "22",
+      "support": null,
+      "condition": null,
+      "grid_system": "Panel bands associated with the image above.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Section B: tongue of a white deer appears in the underlying painted layer. Drawing around a coloured deer with a connection in/around a white deer; connections visible throughout the panel; drawing in the lower-right frame.",
+      "flags": []
+    },
+    {
+      "panel": "23",
+      "support": null,
+      "condition": null,
+      "grid_system": "Divided into 9 sections.",
+      "production_notes": "Cells 6 and 9, in red areas, show indications of underpainting, possibly in red pigment.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Pencil marks at cells 2, 4, 5.",
+      "flags": []
+    },
+    {
+      "panel": "24",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": "Third toenail of the seated figure's right foot (cell 3) rendered with a split line, indicating a reed or quill tool. Cell 3 separately flagged 'good for tool analysis.' (See technical_merged.json seed entry for citation-verified detail.)",
+      "notes": "Pencil marks at cells 1, 2, 4, 5, 8, 9. Compared in a later session (Panel 57) to an 'old man' figure here.",
+      "flags": []
+    },
+    {
+      "panel": "25",
+      "support": null,
+      "condition": null,
+      "grid_system": "Central A/B/C/D quadrant layout.",
+      "production_notes": null,
+      "revision_notes": "Upper-left: left arm initially positioned at 9:30 rather than 9 o'clock as now shown; the other arm also revised.",
+      "tool_notes": null,
+      "notes": "1856 copyist's inscription in section B, lower-left: 'Ramon Rodriguez Mexicano Pensionado, lo copia en Mayo y Abril del 1856, lo terminó 19 Abril a las 7 y 1/2 de la mañana.' Upper-right and lower-right show profile views.",
+      "flags": []
+    },
+    {
+      "panel": "26",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Central square enlarged from an initially smaller box; white-out visible over the earlier box, inside the skull precinct.",
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "27",
+      "support": null,
+      "condition": null,
+      "grid_system": "Quartering marks present.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Flagged in notebook: possible different hand or different intent versus Panel 28. Small white-out below the central box.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "28",
+      "support": null,
+      "condition": null,
+      "grid_system": "Quartering marks present (grouped w/ 27).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "See Panel 27 -- 'different hand?' query applies to this pair jointly.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "29",
+      "support": null,
+      "condition": null,
+      "grid_system": "Orientation of the composition changes from vertical to horizontal beginning here; no red lines delineate divisions from this point on. Guidelines for a central oval and outer square; quartering marks; further quartering in upper-left.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "30",
+      "support": null,
+      "condition": null,
+      "grid_system": "Sub-grid works off divisions of a square on the left side, from the junction of red and yellow (not the yellow's edge).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Drawn lines present throughout the panel.",
+      "flags": []
+    },
+    {
+      "panel": "31",
+      "support": null,
+      "condition": null,
+      "grid_system": "Quartering, sub-gridding, and ordering visible, with a drawn grid system.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Preliminary pencil marks also present.",
+      "flags": []
+    },
+    {
+      "panel": "32",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grouped w/ 31, no distinct additional note.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "33",
+      "support": null,
+      "condition": null,
+      "grid_system": "Sub-grid and ordering throughout.",
+      "production_notes": "Yellow paint appears graded, possibly indicating a wash technique.",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Upper-left quadrant: frontal presentation of a face. Notebook queries whether panels 33-34 depict a route or architecture.",
+      "flags": []
+    },
+    {
+      "panel": "34",
+      "support": null,
+      "condition": null,
+      "grid_system": "Sub-grid and ordering throughout (grouped w/ 33).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Upper-right quadrant: several faces shown in frontal view.",
+      "flags": []
+    },
+    {
+      "panel": "35",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid and sub-grid throughout.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Lower-left quadrant: frontal body, side-view face. Notebook interprets 35-36 as 'depiction of space and beginning of journey.'",
+      "flags": []
+    },
+    {
+      "panel": "36",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid and sub-grid throughout (grouped w/ 35).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Green monster border connects compositionally to Panel 37.",
+      "flags": []
+    },
+    {
+      "panel": "37",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Architecture again depicted; space and time suggested (interpretive note).",
+      "flags": []
+    },
+    {
+      "panel": "38",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Some drawing present.",
+      "flags": []
+    },
+    {
+      "panel": "39",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Dancing figures around a circle (tentative reading).",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "40",
+      "support": null,
+      "condition": null,
+      "grid_system": "Circle-around-circle motif; sub-grid on right, horizontal centre.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Ball court, with a body displayed frontally and head in side view.",
+      "flags": []
+    },
+    {
+      "panel": "41",
+      "support": null,
+      "condition": null,
+      "grid_system": "Guidelines for a circle.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Panels 41-42 read as a single continuous scene. Upper-right temple guidelines noted.",
+      "flags": []
+    },
+    {
+      "panel": "42",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Ball court (continues scene from Panel 41). Central-figure initial drawings visible.",
+      "flags": []
+    },
+    {
+      "panel": "43",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Top of page (right-hand side) repeats an entrance motif also seen on Panel 44. Guidelines for minor decorative flints.",
+      "flags": []
+    },
+    {
+      "panel": "44",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Entrance-motif repetition, grouped w/ 43. General note: gridding and proportion become more important depending on scene complexity -- some panels in this range use grids, others use freehand drawing/guidelines.",
+      "flags": []
+    },
+    {
+      "panel": "45",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Grouped under a 44-45 heading in the notebook with no cell-level detail beyond the general gridding note above.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "46",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid diagram, cells 1-11.",
+      "production_notes": "Base has preliminary drawing; guideline curve on lower spout of figures.",
+      "revision_notes": "Right leg of the dying-god figure redrawn (cell 7).",
+      "tool_notes": "Cell 3 flagged 'TOP FOR ANALYSIS.'",
+      "notes": "Drawing within pot and flames (cell 8); grid used for the crenellated edges of the large square; boxes repeated as in cell 6 (cell 10).",
+      "flags": []
+    },
+    {
+      "panel": "47",
+      "support": null,
+      "condition": null,
+      "grid_system": "Cells 1,2,5,7,8 sit within a related placement system with guidelines; cell 5 has guidelines for the central arch plus specific guidelines for each head.",
+      "production_notes": null,
+      "revision_notes": "Cell 4: arms and left leg redrawn. Cell 5: same, except leg. Cell 1: in lips. Cell 2: in right leg.",
+      "tool_notes": null,
+      "notes": "Cell 8, upper-left figure in temple, has vertical guidelines immediately right of the pupil and through the earlobe. Cell 6 flagged: skulls on the skull rack squared off, with guidelines for the element above.",
+      "flags": []
+    },
+    {
+      "panel": "48",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid diagram, cells 1-9.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Red-line boxes have guideline drawings. Column of circles in cell 5 has a right-hand vertical guideline column. Cell 9 has some verticals right of a small circle between the 3 and 4 circles. In cells 4,5 (Panel 47) and 6,5,4 (Panel 48), the bundle held in each figure's left hand shows differentiated value/paint thickness.",
+      "flags": []
+    },
+    {
+      "panel": "49",
+      "support": null,
+      "condition": null,
+      "grid_system": "Quartered with date/square numbering.",
+      "production_notes": null,
+      "revision_notes": "Cell 1: redraw + correction on tail. Cell 2: redrawn throughout. Cell 3: temple guideline redrawn, figure's right hand at limit vertical. Cell 4: right figure redrawn. Cell 5: building redrawn. Cells 6-7: guideline boxes, cell 7 right-step area redrawn. Cell 8: redrawn with some guidelines. Cells 9-10: upper/lower limit and separator vertical; legs on cell 10 redrawn.",
+      "tool_notes": null,
+      "notes": "Cell 11: guideline boxes.",
+      "flags": []
+    },
+    {
+      "panel": "50",
+      "support": null,
+      "condition": "Owl's head left uncoloured (cell 1).",
+      "grid_system": "Divided into 9 cells (grouped with Panel 51, 3 each in lower frames per notebook cross-reference).",
+      "production_notes": null,
+      "revision_notes": "Cell 1: right figure redrawn. Cell 2: pot redrawn; figure-head guidelines/redrawn (flagged as notable). Cell 3: white-out top+bottom of temple; figure has redrawing in face and arms. Cell 4: both figures much redrawn in body; vertical guideline dropped from the nose of the right figure. Cell 5: redrawing. Cell 6: grid guidelines, figure sits within guideline box. Cell 8: redrawing throughout. Cells 9-10: upper/possibly-lower limit line, redrawing in both. Cell 11: some redrawing, sits within guideline box.",
+      "tool_notes": null,
+      "notes": "Guidelines and white-outs present generally across the panel.",
+      "flags": []
+    },
+    {
+      "panel": "51",
+      "support": null,
+      "condition": null,
+      "grid_system": "Drawing and corrections throughout; indications of a grid system for arranging elements in the lower frames (Panels 51+52, 3 elements each).",
+      "production_notes": null,
+      "revision_notes": "Cell 2: guidelines, drawings, one correction to the left. Cell 3: temple guidelines redrawn, figure's right leg redrawn. Cell 4: left arm of figure redrawn twice; corrections around left/right/bottom of the water area. Cell 5: structure guidelines and drawing. Cell 7: right of structure redrawn. Cell 8: guidelines and redrawing. Cell 9: figure's legs redrawn, pot appears to have a major white-out correction underneath. Cell 10: left arm redrawn.",
+      "tool_notes": null,
+      "notes": "Cells 9-10 also carry upper/lower limit guidelines.",
+      "flags": []
+    },
+    {
+      "panel": "52",
+      "support": "Join present; artist has painted over/incorporated it into the design.",
+      "condition": null,
+      "grid_system": "Grid diagram, cells 1-12.",
+      "production_notes": null,
+      "revision_notes": "Cell 1: arms redrawn. Cell 2: redrawn throughout. Cell 3: temple redrawn. Cell 5: snake redrawn. Cell 6: structure redrawn. Cell 9: corrections around the upper-left two circles, another guideline to the right of the group on the vertical. Cell 12: profile and arms of figure redrawn.",
+      "tool_notes": null,
+      "notes": "Cell 4: guideline marks to the left (uncertain). Cells 10-11: top/bottom horizontal guideline, consistent between them.",
+      "flags": []
+    },
+    {
+      "panel": "53",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid evidence throughout the page.",
+      "production_notes": null,
+      "revision_notes": "Cell 1: entire figure has preliminary drawings and many white-outs. Cell 2: a figure was originally drawn upside down and completely redrawn (noted emphatically in the notebook, '(!!!)').",
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "54",
+      "support": null,
+      "condition": null,
+      "grid_system": "Grid diagram, cells 1-4. Circles consistent.",
+      "production_notes": null,
+      "revision_notes": "Cell 1: lance redrawn. Cell 4: lance and beak redrawn.",
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "55",
+      "support": null,
+      "condition": null,
+      "grid_system": "Divided into 6 sections with coloured bands at base.",
+      "production_notes": null,
+      "revision_notes": "Cell 1: entire figure redrawn. Cell 2: upper arm and headdress redrawn. Cell 4: woven-mat pre-drawn, legs redrawn.",
+      "tool_notes": null,
+      "notes": "Cell 3: possible white-out in area in front of face. Cell 5: moon guidelines; a snake element drawn over it. Cell D: woven basket shows preliminary drawing.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "56",
+      "support": null,
+      "condition": "Staining in red circles at base.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Left figure's lower arm redrawn; right figure's club redrawn; left base redrawn with white-out between it and the left figure.",
+      "tool_notes": null,
+      "notes": "Drawing between right figure and base. Circles consistent.",
+      "flags": []
+    },
+    {
+      "panel": "57",
+      "support": null,
+      "condition": "Staining at base.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Cell 1: central area with figure redrawn. Cell 2: guidelines for central image; area left of the left figure's face looks heavily reworked with white-out; rear ('butt') of the right figure redrawn. Cell 5: central image group of snakes redrawn; right figure's left arm redrawn.",
+      "tool_notes": null,
+      "notes": "An 'old man' figure here compared with the earlier upper-left frame of Panel 24. Notebook query, panels 54-57: possible change of hand -- same as the first session's hand, or different?",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "58",
+      "support": null,
+      "condition": null,
+      "grid_system": "Circles consistent.",
+      "production_notes": null,
+      "revision_notes": "Cell 2: both figures redrawn. Cell 4: item on lower path redrawn. Cell 5: figure's cap redrawn; kettle above right figure, white-out at upper-right corner of horizontal line. Cell 6: hands on both figures redrawn.",
+      "tool_notes": null,
+      "notes": "Cell 7: left-head drawing on the left side.",
+      "flags": []
+    },
+    {
+      "panel": "59",
+      "support": null,
+      "condition": null,
+      "grid_system": "Drawing of circles consistent with the day's first observation (cross-ref Panel 60).",
+      "production_notes": null,
+      "revision_notes": "Cell 1: female left arm redrawn.",
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "60",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Cells 3-4: left figure has drawing (both cells, same note).",
+      "tool_notes": null,
+      "notes": "See technical_merged.json seed entry for the lead-point cusp-pattern guideline previously catalogued at this panel.",
+      "flags": []
+    },
+    {
+      "panel": "61",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Upper: 4th frame from left in upper course, monkey's nose redrawn. Lower: left-upper figure's arms redrawn.",
+      "tool_notes": null,
+      "notes": "Upper: Xipe figure's left hand has guidelines above and within the forearm.",
+      "flags": []
+    },
+    {
+      "panel": "62",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Upper: both central objects redrawn in a straight line connecting them; some correction at lower-left corner of the lower central object. Lower: left figure's right arm redrawn (initial position almost touching the green disk at the elbow).",
+      "tool_notes": null,
+      "notes": "Lower: drawing between temple and staff.",
+      "flags": []
+    },
+    {
+      "panel": "63",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Upper: left god's knee redrawn; small upper temple redrawn. Lower: leopard's face redrawn.",
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "64",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Upper: turkey-beak drawing lower and right from final position; an object on the right parallels one on the upper left. Lower: female head, upper body has drawing.",
+      "flags": []
+    },
+    {
+      "panel": "65",
+      "support": "Hide join, 16x4mm from the right edge, painted into by the artist as part of the design.",
+      "condition": null,
+      "grid_system": null,
+      "production_notes": "Variations in ochre tone in the lower section (all darker), noted at multiple figure locations (upper arm, hand, foot, nose, knee, and others; also a god figure's hand and a reclining figure's foot/hand/cheek/forehead).",
+      "revision_notes": null,
+      "tool_notes": "Flint knife identified, second from left/second from top, at 45deg pointing right; unlike the others nearby, the top lacks a flare; stroke runs thick-to-thin, top-to-bottom, right-to-left.",
+      "notes": "Detailed coiled-snake figure diagram recorded, upper panel; vertical/horizontal chisel-tip stroke convention noted.",
+      "flags": []
+    },
+    {
+      "panel": "66",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Lines in temple; lower reclining figure; mouth of a monster on the right.",
+      "flags": []
+    },
+    {
+      "panel": "67",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Drawing in the upper-left middle object.",
+      "tool_notes": "Green-paint tool slip in the lower-right area (marked 'MISTAKE' in the notebook, with the slip direction diagrammed). See technical_merged.json seed entries for the citation-verified 'tool-slip' and 'stroke-direction' records at this panel.",
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "68",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Upper-left middle object: original black line visible after scraping; a second, scraped-away line evidently did not work in the painted version.",
+      "tool_notes": "Confirms at least three line types/tools: consistent thick line, consistent thin line, and variable-width line. A flint knife identified at the first square on the right, upper course. Numbered figure-leaves-in-base-of-temple sequence recorded (two groupings of readings, of uncertain final interpretation).",
+      "notes": "See technical_merged.json seed entry for the citation-verified 'scraping-correction' record (figure's left arm shifted after black-line painting finished) at this panel.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "69",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": "Pot outline in the middle shifted 4mm to the right from an earlier position. Corrections above and right of a figure's head, and above a left shoulder.",
+      "tool_notes": "Scoring visible ~1mm to the right of a line in the upper-left figure; unclear if intentional; appears to continue underneath the throne.",
+      "notes": "Right-hand figure has drawing under the upper arm; left figure has drawing in the upper arms, near the right shoulder.",
+      "flags": []
+    },
+    {
+      "panel": "70",
+      "support": "Original hole immediately underneath the upper throne, alongside a hide join. Two further holes correspond to grid cell 6 in the upper frame and are original -- gessoed, with the figure in cell 6 apparently painted directly into them.",
+      "condition": "Hole 1: ~10mm x 16mm, long axis toward ~10 o'clock, located 43mm from the left edge and 6mm from the top. Hole 2: ~10mm x 8mm, located 14mm from the left and 48mm from the top.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Upper: leopard figure drawing extra thick, with a possible stippled line around it. Lower: middle figure has drawing. Central figure (cell B) shows evidence of a general-to-specific drawing organization.",
+      "flags": []
+    },
+    {
+      "panel": "71",
+      "support": null,
+      "condition": null,
+      "grid_system": "Central square with drawn lines used to establish overall composition (shared with Panel 72).",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Drawn line around the belly (cell 1); left-hand arm above/left of forearm, right of upper arm (cell 2); below left lancet and below right leg if the figure is flipped vertically (cell 3); entire figure and underlying X-form (cell 4). Monkey figure elsewhere on this panel has an unusual rendering, possibly a colour (brown?) not otherwise catalogued.",
+      "flags": [
+        "check"
+      ]
+    },
+    {
+      "panel": "72",
+      "support": null,
+      "condition": null,
+      "grid_system": "Central square with drawn lines, shared w/ 71.",
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "73",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": "Lines combine thicker (~0.8mm) and thinner (~0.25mm) strokes, thickest in the upper left and tapering toward the lower foot of the left-hand figure (diagrammed, labelled 'DRAWN LINE').",
+      "notes": "Underdrawing in the staff of the left-hand figure, arms of both flanking figures, and the head of the left-hand figure.",
+      "flags": []
+    },
+    {
+      "panel": "74",
+      "support": "Three large holes in the deerskin; the left edge of the panel is the beginning of a new skin section, covered by the gesso coat and original to construction. The artist painted the left-hand figure's fingers over this join and actually under the lip of one hole, for the left-hand ring finger.",
+      "condition": "Pretty much effaced overall.",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": "Direct evidence of the artist working around/into a pre-existing material flaw.",
+      "flags": []
+    },
+    {
+      "panel": "75",
+      "support": null,
+      "condition": "~50% effaced but legible down to the 1st priming layer (shared note w/ Panel 76).",
+      "grid_system": null,
+      "production_notes": null,
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    },
+    {
+      "panel": "76",
+      "support": null,
+      "condition": null,
+      "grid_system": null,
+      "production_notes": "Lowest of five red circles drawn identically to Panel 75's lowest of five red circles; two-stroke drawing method diagrammed (1st stroke, 2nd stroke).",
+      "revision_notes": null,
+      "tool_notes": null,
+      "notes": null,
+      "flags": []
+    }
+  ]
+}

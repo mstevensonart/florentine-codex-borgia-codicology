@@ -1,23 +1,47 @@
 cff-version: 1.2.0
-message: "If you use this dataset or essay, please cite it as below."
-title: "In Tlilli, In Tlapalli: A Codicological Survey of the Codex Borgia and the Florentine Codex"
-authors:
-  - family-names: Stevenson
-    given-names: Michael
+message: "If you use this dataset or the accompanying thesis, please cite as below."
+title: "In Tlilli, In Tlapalli: A Codicological Survey of the Codex Borgia and Florentine Codex"
 type: dataset
+authors:
+  - family-names: "Stevenson"
+    given-names: "Michael"
+version: 2.0.0
+date-released: "2026-08-29"
+doi: 10.5281/zenodo.21609725
+repository-code: "https://github.com/mstevensonart/florentine-codex-borgia-codicology"
+url: "https://mstevensonart.github.io/florentine-codex-borgia-codicology/"
+license: CC-BY-4.0
 abstract: >
-  A physical-evidence dataset and comparative essay examining production
-  methods, materials, and corrections in the Codex Borgia and the
-  Florentine Codex, developed from an M.A. thesis (Art History, Arizona
-  State University, 2003, chair: Emily Umberger).
+  A codicological survey documenting watermarks, paper stock, tool evidence,
+  and scribal corrections across the Codex Borgia (Borgiana Messicana 1,
+  Biblioteca Apostolica Vaticana) and the Florentine Codex (Codice Fiorentino,
+  Medici Palatino 218-220, Biblioteca Mediceana Laurenziana), building toward
+  an argument for artisanal continuity from a pre-Conquest screenfold to a
+  colonial manuscript. Grew out of the author's M.A. thesis (Art History,
+  Arizona State University, 2002; chair: Emily Umberger).
 keywords:
   - codicology
   - Codex Borgia
   - Florentine Codex
   - Mesoamerican manuscripts
-  - watermarks
-  - paleography
-license: CC-BY-4.0
-# version: 0.1.0
-# date-released: YYYY-MM-DD
-# doi: 10.5281/zenodo.XXXXXXX   # fill in after first Zenodo archive
+  - manuscript studies
+  - art history
+references:
+  - type: thesis
+    title: "Style and Time in a Sixteenth-Century Mexican Manuscript: An Analysis of the Illustrations in Volume II of the Florentine Codex"
+    authors:
+      - family-names: "Stevenson"
+        given-names: "Michael"
+    institution:
+      name: "Arizona State University"
+    year: 2002
+  - type: article
+    title: "The Black and the Red: A Physical Description of the Codex Borgia"
+    authors:
+      - family-names: "Stevenson"
+        given-names: "Michael"
+    journal: "Phoebus: A Journal of Art History"
+    issue: "11"
+    year: 2022
+    start: 59
+    end: 78
