@@ -1,0 +1,421 @@
+{
+  "manuscript": "Codex Borgia",
+  "description": "Execution-level technical evidence (stroke direction, tool behavior, pentimenti, corrections), building on M. Stevenson, M.A. thesis, Arizona State University, 2002 (chair: Emily Umberger).",
+  "status": "Expanded from 8 seed entries to 59 via full field notebook transcription (Codex_Borgia_notes.pdf), 2026-08-30.",
+  "total_entries": 59,
+  "entries": [
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 60",
+      "note_type": "dry-media",
+      "note_text": "Lead-point line establishes limits of inner points of cusp pattern on the circular shield form on the bearded figure's left arm. A leather join at this panel is covered by gesso and paint, invisible at viewing distance.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 65",
+      "note_type": "dry-media",
+      "note_text": "Lead-point compositional guideline indicates the lower edge of the serpent's curves in the upper section; a second line appears below and left of the serpent's tongue, perpendicular to a line locating a small square structure to its lower left.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 45",
+      "note_type": "dry-media",
+      "note_text": "Lead-point grid used to order the drawn skulls of sacrificial victims in the tzompantli illustration.",
+      "essay_reference": "thesis essay (ASU, 2003) / 2008-09 comparative essay"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 24",
+      "note_type": "split-nib-evidence",
+      "note_text": "Split-nib mark visible in the third toenail of the figure's proper right foot, upper right section. Indicates a reed pen that ran out of ink mid-stroke, leaving a dry, divided mark. Visible only in the original, not in facsimile or copy reproduction.",
+      "essay_reference": "thesis essay (ASU, 2003), §Split-nib evidence"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 67",
+      "note_type": "tool-slip",
+      "note_text": "Artist's hand slipped in the lower right-hand quadrant: a green mark partially covers the bundle held by the Tlaloc figure. Mark shows a flat tool capable of variable-sized marks (sharp points to broad swaths) holding a fair amount of paint -- versatility not otherwise evident elsewhere in the manuscript. Character of the mark is uniform, not brush-like.",
+      "essay_reference": "thesis essay (ASU, 2003), Fig. 6 / field notebook sketch, 'MISTAKE lower right'"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 67",
+      "note_type": "stroke-direction",
+      "note_text": "Upper band: flint knife motif drawn upper-left to lower-right; upper and lower lines thick at top tapering to thin at bottom, crossing at bottom. Lines noted as uniformly dark, differing in character from elsewhere on the panel.",
+      "essay_reference": "field notebook"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Figure 5 (day-sign disks)",
+      "note_type": "white-paint-correction",
+      "note_text": "Two sets of six red disks (day-sign number indicators) drawn and redrawn; unwanted portions covered with white paint, a material visibly different in hue/value from the gesso ground.",
+      "essay_reference": "thesis essay (ASU, 2003), §Corrections"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 68",
+      "note_type": "scraping-correction",
+      "note_text": "Figure's left arm shifted slightly higher after the black-line painting was finished; lower line of the original arm position scraped away to remove black paint, upper line retains some pigment visible beneath the later coat.",
+      "essay_reference": "thesis essay (ASU, 2003), §Corrections, second correction type"
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 7",
+      "note_type": "production-sequence",
+      "note_text": "Four distinct layers visible (five including paint), from hide outward: tanned hide (bottom edge extends 1-2mm from base, same colour as right-hand edge of page); 1st primer (seal coat for hide); 2nd coat (establishes base on stiffened 1st-coat hide); 3rd coat (prepares final working surface). Notebook header queries whether priming order was initial/secondary/final, 'as one would prime a regular panel.'",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 1",
+      "note_type": "production-sequence",
+      "note_text": "Detailed 17x7 grid diagram of priming/paint zones: intermediate priming (hatched) vs. preliminary prime-except-where-detail (blank) zones mapped across the panel. Full prime + paint 'island' occurs within the preliminary primed area. Red stain areas, green paint, and ochre paint locations mapped. Black line convention noted throughout except for a red line on the left-hand edge (tanned hide edge). Grain-of-leather direction runs downward. Recorded July 7, 2000, 11:32 AM, Vatican Apostolic Library.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 1",
+      "note_type": "condition",
+      "note_text": "Large damage in upper-left-hand corner; abrasion over entire panel; upper-right corner only ~1/3 legible; lower left almost effaced. Panel divided horizontally into seven vertical sections, unequal in size (two upper + lower-most vertical sections equal to each other but larger than all other five). Grid mapping (columns a-f, rows 1-7) marks areas visible to unaided eye; red pigment appears to have bled through in marked panels. Left-hand-side red lines delineating boxes are consistent throughout.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 1",
+      "note_type": "production-sequence",
+      "note_text": "At grid cell 7c: red stain appears absorbed into the hide; hide has a preliminary gypsum coat; further painting appears on top of the stain. Diagram shows layer order: ground/priming over support, with the stain occurring at the support/priming interface -- indicating the stain predates full priming and painting.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 1",
+      "note_type": "pigment",
+      "note_text": "Frame 1F: detailed figure annotated with pigment zones -- green, red pigment w/ red stain, red stain w/ red paint (multiple locations), figure in yellow ochre, water stain, red line (bottom edge, two instances). Leather grain pronounced at top edge; light yellow at right edge. Second and final prime, border red, and tanned hide/1st-prime zones mapped at right edge. Recorded July 12, 2000, 12:20 PM, Vatican Apostolic Library.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 5",
+      "note_type": "underdrawing",
+      "note_text": "Pencil marks visible at multiple grid locations: figure being swallowed (1b), temple (1e), building (7b), pot and figure (7c, flagged as notable). Entire red grid has a preliminary grid; on horizontal lines this preliminary grid usually sits immediately above the actual red grid line.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 6",
+      "note_type": "underdrawing",
+      "note_text": "Pencil marks at head (2a), snakes (7c, flagged as notable), left-hand side (7d). Grid cells 4d and 5a noted as 'good indication of tool and handedness.'",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 7",
+      "note_type": "underdrawing",
+      "note_text": "Pencil marks at building (1a), large figure (1c), platform (1d), small mark upper left (7a), upper part (7c). White-out line on red line, columns e+f on left-hand side from rows 2-7.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 8",
+      "note_type": "underdrawing",
+      "note_text": "Building proportion pencil marks at 1a/1b (flagged as notable); small marks around figure at 1f. White-out on horizontal line below row 1, columns b-d and f.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 9-10",
+      "note_type": "revision",
+      "note_text": "Pencil frame around figure (panel 9). White-out line immediately below upper figures, extending across both panels. White-out also present in the connection between the heads of two figures in the upper half (panel 9, cell 4), and in a line extending between cells 3 and 4, still evident along the vertical division line. Panel 10, cell 4: pencil marks around upper drinking figure and edge of moon.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 11-12",
+      "note_type": "revision",
+      "note_text": "Same upper horizontal white-out band runs across both panels. Panel 11 pencil marks: right-hand snake head (2), upper-left group (3), lower-left snake (4); possible white-out in cell 3 (lower-left skull, upper-right quadrant). Panel 12 pencil marks: upper-right figure (1); pot outline not following curves of top and bottom, suggested as an 'intuitive understanding of space' (3); temple structure (4).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 13-14",
+      "note_type": "underdrawing",
+      "note_text": "Panel 13 pencil marks: fisherman and monkey (1), lower-right object (2), lower skull figure with ink added to upper figure (3), temple structure (4). White-out noted around outer edge of moon (13-1) and between the two central figures, horizontal line (13-3). Panel 14, cell 2: white-out around figure; pencil marks around figure's lower elbow and deer head, lower right.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 15-16",
+      "note_type": "production-sequence",
+      "note_text": "Analytical note: the artist further subdivides the main grid in the middle horizontal panels, introducing additional horizontal lines that bisect the vertical spaces into three. This sub-gridding allows figures to be consistently placed within their frames and conform to a type of proportion; the measurement line runs through the base of vessels and the waists of the large figures, and is visible throughout the middle panels.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 17-18",
+      "note_type": "cross-panel-evidence",
+      "note_text": "Lower line of the upper 'predella' on panel 18 extends through panel 17. Large figure's shield arm below arm and above small temple; horizontals and verticals in lower right of figure (17). Panel 18: striped sacrifice figure with sun above, near-centre figure; predella figures numbered from left (#4 upper, #3 lower); white-out and drawing around owl and temple, and around leopard (white-out to left of the leopard's rump).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 19",
+      "note_type": "revision",
+      "note_text": "Upper panel: drawing to the right of a green figure also shows white-out; white-out present in predella positions 1, 3, and 5 from left. Lower panel: circles to the left were initially drawn larger, then reduced and shifted up and to the left -- the actual (final) circle occupies the lower-left quadrant of a visible 'ghost circle' from the earlier, larger version. Drawing throughout left figure on platform and snake in air.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 20",
+      "note_type": "revision",
+      "note_text": "Upper panel: snake and falling figure; white-out to left of rabbit in predella position 2; drawing in positions 3 and 5. Lower panel: drawing and white-out around a female figure; guideline marks around water, in predella position 2.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 21",
+      "note_type": "underdrawing",
+      "note_text": "Upper: drawing in path and predella positions 1, 4, and 5. Lower: drawing in ball court and positions 2 and 4. When examined in raking light, the surface of predella position 4 (lower) appears to be a whole line likely drawn rather than incised.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 22",
+      "note_type": "underdrawing",
+      "note_text": "Drawing around a coloured deer figure, with a connection in and around a white deer; connections visible throughout the panel; drawing in lower-right frame.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 23-24",
+      "note_type": "underdrawing",
+      "note_text": "Panel 23: pencil marks around head and left arm (2), both arms (4), upper arm (5). Panel 24: pencil marks at minor snake, lower (1); above/left of owl figure, above throne base (2); within entire figure, flagged as notable (3); lower arm (4); entire figure (5); within figure (8); skull, and within lower and forehead/teeth (9).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 25",
+      "note_type": "revision",
+      "note_text": "Entire page quartered; central box made slightly smaller. Upper-left: left arm initially positioned at 9:30 rather than 9 o'clock as now shown; the other arm was also revised. Upper-right and lower-right: profile views.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 26",
+      "note_type": "revision",
+      "note_text": "Central square was enlarged from an initially smaller box; white-out visible over it, inside the skull precinct. Evidence of enlargement of the central square and overpainting of the smaller original element.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 27-28",
+      "note_type": "scribal-hand",
+      "note_text": "Flagged with an asterisk in the notebook: possible different hand or different intent between the two panels. Quartering marks present on both; small white-out below the central box on panel 27.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 29-30",
+      "note_type": "production-sequence",
+      "note_text": "Guidelines for a central oval and outer square present on both panels; quartering marks. Sub-grid on panel 30 works off divisions of a square on the left side, from the junction of red and yellow (not the edge of the yellow). Further quartering noted in the upper left of panel 29; drawn lines are present throughout panel 30.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 31-32",
+      "note_type": "underdrawing",
+      "note_text": "Quartering, sub-gridding, and ordering visible on panel 31, along with a drawn grid system. Panel 31 additionally shows preliminary pencil marks.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 33-38",
+      "note_type": "production-sequence",
+      "note_text": "Sub-grid and ordering present throughout panels 33-36 and 47-48; panels 37-38 show only some drawing (panel 38). On panels 33-34, yellow paint appears graded, possibly indicating a wash technique. Notebook also queries whether these panels depict a route or architecture; panel 33 shows frontal presentation of a face (upper-left quadrant), panel 34 shows some faces in frontal view (upper-right quadrant).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 29",
+      "note_type": "production-sequence",
+      "note_text": "Panel orientation of the composition changes from vertical to horizontal beginning at panel 29; no red lines delineate panel divisions from this point on, unlike the vertical panels preceding it.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 17-20",
+      "note_type": "iconographic-note",
+      "note_text": "Note that all compositions are vertical in orientation up through this point in the screenfold.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 1-8",
+      "note_type": "physical-anomaly",
+      "note_text": "Panels 1-2 share a 7x7 design; damage in the upper-right corner of panel 2 corresponds to panel 1 but is smaller, with matching stain damage. Panels 3-4 share the same 7x7 design as 1-2. Panels 5-6: panel 5 has a hole in the lower-right corner of grid cell 7b; panel 6 has a hole in cells 1a+1b (1/4in from top, crossing the line, with more in 1b), and a second hole in cell 1e (1/2in from base, lower right, overlapping into the next frame). Query recorded: 'could staining occur only with water damage?'",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 7",
+      "note_type": "underdrawing",
+      "note_text": "Evidence of sketching in cells 1a, 1b, 1c, 1d. Vertical line at cell 1e-f has white paint, with connections on the 1e side running from the bottom of the page to the bottom of 1e. Colour applied on top of black in cells 4f and 3f. Ground is a white material. At cell 1c: ground shows evidence of air bubbles between the left knee of the larger figure and the back of the right knee of the smaller figure, in an area parallel to the panel's base -- these and similar imperfections suggest the paint layers are transparent. Ground also has small impurities of unidentified material.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 8",
+      "note_type": "pigment",
+      "note_text": "Red colour in cell 1d differs from the small figure's red -- darker, with more paint applied, and more opaque.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 9-14",
+      "note_type": "pigment",
+      "note_text": "Panels 9-10: colour scheme of ochre, green, red, black, plus white of the exposed ground; red staining occurs at the base of the panels, consistent with water damage. Panels 11-12: evidence of a red line between the two panels suggesting a method of presentation; panel 11 has a join in two pieces of hide. Panels 13-14: panel 14 shows evidence of a hide join at grid positions 2, 5, and 8, approximately 1/2in in from the left of each square; panel 13 cell 3 has an apparently unfinished element in the upper-left corner.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 15-16",
+      "note_type": "physical-anomaly",
+      "note_text": "Both panels divided into nine sections with borders at the base of each (four equal squares). Stain evidence on both panels: panel 15 stains occur on bare hide with no ground, at border positions 1-4; panel 16 stains occur on bare hide with no ground, at positions 7 and 8 (position 7: cells 3-4; position 8: all four cells). Faces on what appear to be human figures show differences in paint application, as if suggesting differences in individual appearance.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 21-22",
+      "note_type": "iconographic-note",
+      "note_text": "Panel 21 upper section depicts a ball court in plan view. Staining occurs along the base of the entire screenfold, possibly from water damage. Panel 22: panel bands associated with the image above; a tongue belonging to a white deer appears in the underlying painted layer (cell B).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 23",
+      "note_type": "underdrawing",
+      "note_text": "Grid cells 6 and 9, in red areas, show indications of underpainting, possibly in red pigment.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 25",
+      "note_type": "restoration-evidence",
+      "note_text": "A Spanish-language inscription is present in the lower-left area (cell B) of the panel: \"Ramon Rodriguez Mexicano Pensionado, lo copia en Mayo y Abril del 1856, lo terminó 19 Abril a las 7 y 1/2 de la mañana\" (Ramón Rodríguez, Mexican pensioner/scholarship-holder, copied it in May and April of 1856, finishing it on 19 April at 7:30 in the morning). This directly answers an open question elsewhere in the same notebook session ('or repair at later date?') regarding a possible later restoration/copying campaign -- a 19th-century copying episode is confirmed by this inscription.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 66-65",
+      "note_type": "tool-evidence",
+      "note_text": "Vertical lines have a chisel tip on top; horizontal lines have the same on the left. A flint knife identified second from the left, second from top, at 45deg pointing right; unlike others, the top lacks a flare (see panel 65); line runs thick-to-thin, top-to-bottom, right-to-left. Panel 65: variations in ochre tone in the lower section (all darker) noted at multiple body locations across several figures (upper arm, hand, foot, nose, knee, and others), plus the hand of a god figure and a reclining figure's foot, hand, cheek, and forehead. A hide join measuring 16x4mm from the right edge has been painted into by the artist, incorporating the fold/join into the design.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 70",
+      "note_type": "physical-anomaly",
+      "note_text": "An original hole sits immediately underneath the upper throne, alongside a join in the hide. Two further holes correspond to grid cell 6 in the upper frame and are original -- both are gessoed, and the figure in cell 6 appears to be painted directly into them. Hole 1 measures approximately 10mm x 16mm (long axis oriented toward roughly 10 o'clock), located 43mm from the left edge and 6mm from the top. Hole 2 measures approximately 10mm x 8mm, located 14mm from the left and 48mm from the top of the page.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 70",
+      "note_type": "condition",
+      "note_text": "Upper section: leopard figure drawing is extra thick, with a stippled(?) line around it as well. Middle figure has drawing. Upper-left figure at panel 69: scoring visible about 1mm to the right of a line; unclear whether intentional; scoring appears to continue underneath the throne. A pot outline in the middle has shifted 4mm to the right from an earlier position. Corrections visible above and right of a figure's head, and above a left shoulder.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 53",
+      "note_type": "revision",
+      "note_text": "Grid cell 1 has preliminary drawings and many instances of white-out, with grid evidence throughout the page. Grid cell 2: a figure was originally drawn upside down and subsequently redrawn entirely (noted emphatically in the notebook, '(!!!)').",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 49-62",
+      "note_type": "revision",
+      "note_text": "Dense sequence of pentimenti recorded across panels 49 through 62, consistent in character: redrawn limbs (arms, legs redrawn once or twice), redrawn temple/building structures, redrawn snakes, redrawn headdresses, redrawn central image groups, and guideline marks preceding final drawing. Includes a join in panel 52 that the artist has painted over/incorporated. Circle drawings noted as internally consistent across this run of panels.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 50",
+      "note_type": "condition",
+      "note_text": "Owl's head left uncoloured. Guidelines and white-outs present; adjoining figure redrawn.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 50-51",
+      "note_type": "condition",
+      "note_text": "Grid cell 50A: apparently unfinished owl head.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 71-72",
+      "note_type": "pigment",
+      "note_text": "Drawing present on both panels. Panel 71: a monkey figure has an unusual rendering, possibly using a colour (brown?) not otherwise catalogued.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 73-76",
+      "note_type": "underdrawing",
+      "note_text": "Staining present on both panels 73-74. Panel 73: central figure shows underdrawing; drawn lines present in the staff of one figure, the arms of two flanking figures, and the head of the left-hand figure. Lines on panel 73 combine thicker (~0.8mm) and thinner (~0.25mm) strokes, thickest in the upper left and tapering toward the lower foot of the left-hand figure -- diagrammed in detail with the thinning stroke labelled 'DRAWN LINE.' Panel 76: lowest of five red circles drawn identically on both 75 and 76, with a two-stroke drawing method diagrammed (1st stroke, 2nd stroke).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "Panel 74",
+      "note_type": "physical-anomaly",
+      "note_text": "Three large holes in the deerskin; the left edge of the panel is the beginning of a new skin section, covered by the gesso coat and original to the manuscript's construction. The artist has painted the left-hand figure's fingers over this join, and actually under the lip of one hole, for the left-hand ring finger -- direct evidence of the artist working around/into a pre-existing material flaw rather than avoiding it.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "scribal-hand",
+      "note_text": "General observations recorded across the examination: within a single artist or workshop, nothing distinguishes specific or different hands. Different amounts of the same pigment create different tones of the same colour (wash tone vs. body tone). Colours used: yellow ochre (wash and body), red (possibly ochre-based), green, brown. Pigments are sufficiently transparent that black underdrawing lines are not obscured; black lines are occasionally reinforced with a second application.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "production-sequence",
+      "note_text": "Notes toward production sequence: collection of materials; tanning of hides (would need to be stiff); preparation for painting via 1st, 2nd, and final priming coats; all joints and holes filled prior to painting. The entire screenfold would have to be worked flat, or in sections, meaning the narrative/story was planned out in advance. After gessoing, a first draft of the story would follow -- raising the question of why such a final work required so much subsequent revision.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "revision",
+      "note_text": "Comparative note directly linking Borgia's guide-marks to the Florentine Codex's correction practices: 'Are marks actually signed [i.e. intentional guide marks]? Similar to corrections or preliminary drawings in Florentine Codex. All are drawn in sympathy with the final drawing and understanding of form. Many are modifications of a pose.' A specific example is noted of a line actually scraped away (see Panel 68).",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "pigment",
+      "note_text": "Colour-matching notes against a Winsor & Newton reference set: red is close to red ochre with a touch of violet; light yellow is a yellow-ochre body tone; dark yellow is an orangey-brown, yellow-ochre wash tone; green is a cool green that tends toward grey in conjunction with other colours or under high contrast, sometimes applied heavily; gypsum white is a cool, bright white; black is, if anything, a warm black. Overall high contrast is used throughout -- even the light yellow reads as roughly 50% grey.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "production-sequence",
+      "note_text": "Materials/medium synthesis: the gypsum-type priming is not water-soluble once dry. Paint is applied over the black-line underdrawing, indicating the black-line medium is not water-soluble, or is sufficiently insoluble to resist the paint medium applied over it. Paint layers themselves are relatively thin, relatively consistent in coverage, and do not appear to require much manipulation during application; possible evidence of more than one coat in places. Open questions recorded: what is the exact medium for the paint, and were the pencil/guide lines made before or after the codex's completion.",
+      "essay_reference": null
+    },
+    {
+      "manuscript": "Codex Borgia",
+      "location": "General (Codex Borgia)",
+      "note_type": "iconographic-note",
+      "note_text": "Recorded observation, flagged as notable: figures throughout always retain essential human form -- no extra limbs, no wings -- even where combined with animal or supernatural elements.",
+      "essay_reference": null
+    }
+  ]
+}
